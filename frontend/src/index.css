@@ -1,0 +1,169 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&family=JetBrains+Mono:wght@400;500;600&display=swap');
+@import 'tailwindcss';
+
+@theme inline {
+  --font-sans: 'Inter', system-ui, sans-serif;
+  --font-mono: 'JetBrains Mono', monospace;
+}
+
+/* ── Global reset ── */
+*, *::before, *::after { box-sizing: border-box; }
+
+body {
+  font-family: 'Inter', system-ui, sans-serif;
+  background: #E8EDF4;
+  color: #0F172A;
+  margin: 0;
+  padding: 0;
+  -webkit-font-smoothing: antialiased;
+}
+
+/* ── Depth shadow scale ── */
+.shadow-card {
+  box-shadow:
+    0 1px 2px rgba(15,23,42,0.06),
+    0 4px 12px rgba(15,23,42,0.06),
+    inset 0 1px 0 rgba(255,255,255,0.9);
+}
+.shadow-card-hover {
+  box-shadow:
+    0 2px 4px rgba(15,23,42,0.08),
+    0 8px 24px rgba(15,23,42,0.10),
+    inset 0 1px 0 rgba(255,255,255,0.95);
+}
+.shadow-panel {
+  box-shadow:
+    0 2px 4px rgba(15,23,42,0.07),
+    0 12px 32px rgba(15,23,42,0.09),
+    inset 0 1px 0 rgba(255,255,255,0.85);
+}
+.shadow-raised {
+  box-shadow:
+    0 4px 6px rgba(15,23,42,0.05),
+    0 16px 40px rgba(15,23,42,0.10),
+    inset 0 1px 0 rgba(255,255,255,0.9);
+}
+.shadow-inset {
+  box-shadow: inset 0 2px 6px rgba(15,23,42,0.08), inset 0 1px 2px rgba(15,23,42,0.06);
+}
+.shadow-btn {
+  box-shadow:
+    0 1px 2px rgba(15,23,42,0.15),
+    0 3px 8px rgba(15,23,42,0.10),
+    inset 0 1px 0 rgba(255,255,255,0.18);
+}
+.shadow-btn:active {
+  box-shadow: 0 1px 2px rgba(15,23,42,0.20), inset 0 1px 3px rgba(0,0,0,0.15);
+  transform: translateY(1px);
+}
+.shadow-sidebar {
+  box-shadow: 4px 0 24px rgba(6,15,32,0.35), 2px 0 8px rgba(6,15,32,0.20);
+}
+
+/* ── Card base ── */
+.card {
+  background: #FFFFFF;
+  border-radius: 10px;
+  border: 1px solid rgba(226,232,240,0.8);
+}
+
+/* ── KPI card ── */
+.kpi-card {
+  background: linear-gradient(160deg, #FFFFFF 0%, #F8FAFC 100%);
+  border-radius: 10px;
+  border: 1px solid rgba(226,232,240,0.9);
+}
+
+/* ── Page surface ── */
+.page-surface {
+  background: linear-gradient(180deg, #EDF1F7 0%, #E4EAF4 100%);
+}
+
+/* ── Sidebar gradient ── */
+.sidebar-bg {
+  background: linear-gradient(180deg, #0D1E3A 0%, #091525 60%, #060F20 100%);
+}
+
+/* ── Table ── */
+.sticky-table thead th {
+  position: sticky;
+  top: 0;
+  z-index: 10;
+  background: #F8FAFC;
+  backdrop-filter: blur(4px);
+}
+.sticky-table tbody tr:hover td {
+  background: #F5F8FF;
+}
+
+/* ── Risk badge ── */
+.risk-badge {
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.65rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  padding: 2px 8px;
+  border-radius: 4px;
+  text-transform: uppercase;
+}
+
+/* ── Dev badge ── */
+.dev-tag {
+  display: inline-flex;
+  align-items: center;
+  gap: 4px;
+  font-family: 'JetBrains Mono', monospace;
+  font-size: 0.6rem;
+  font-weight: 700;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  padding: 3px 8px;
+  border-radius: 4px;
+  background: linear-gradient(135deg, #78350f, #92400e);
+  color: #fcd34d;
+  border: 1px solid #92400e;
+  box-shadow: 0 1px 3px rgba(120,53,15,0.3), inset 0 1px 0 rgba(255,255,255,0.08);
+}
+
+/* ── Btn primary ── */
+.btn-primary {
+  background: linear-gradient(160deg, #1e4080 0%, #1B3A6B 100%);
+  color: white;
+  border: 1px solid #1a3870;
+  border-radius: 7px;
+  font-size: 12px;
+  font-weight: 600;
+  padding: 7px 16px;
+  cursor: pointer;
+  transition: all 0.15s ease;
+  box-shadow: 0 1px 2px rgba(15,23,42,0.2), 0 3px 8px rgba(27,58,107,0.2), inset 0 1px 0 rgba(255,255,255,0.12);
+}
+.btn-primary:hover {
+  background: linear-gradient(160deg, #234898 0%, #1e4080 100%);
+  box-shadow: 0 2px 4px rgba(15,23,42,0.25), 0 6px 16px rgba(27,58,107,0.25), inset 0 1px 0 rgba(255,255,255,0.14);
+  transform: translateY(-1px);
+}
+.btn-primary:active {
+  transform: translateY(0);
+  box-shadow: 0 1px 2px rgba(15,23,42,0.2), inset 0 2px 4px rgba(0,0,0,0.12);
+}
+
+/* ── Scrollbar ── */
+::-webkit-scrollbar { width: 5px; height: 5px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: #CBD5E1; border-radius: 3px; }
+::-webkit-scrollbar-thumb:hover { background: #94A3B8; }
+
+/* ── Section divider ── */
+.section-rule {
+  height: 1px;
+  background: linear-gradient(90deg, transparent, rgba(226,232,240,0.8) 20%, rgba(226,232,240,0.8) 80%, transparent);
+}
+
+/* ── Glassmorphism panels ── */
+.glass-panel {
+  background: rgba(255,255,255,0.72);
+  backdrop-filter: blur(12px);
+  -webkit-backdrop-filter: blur(12px);
+  border: 1px solid rgba(255,255,255,0.6);
+}

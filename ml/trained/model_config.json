@@ -1,0 +1,14 @@
+{
+    "features": [
+        "utilization_mock",
+        "pending_ratio_pct",
+        "cancelled_ratio_pct",
+        "average_project_cost_mock",
+        "average_delay_days_mock"
+    ],
+    "contamination": 0.1,
+    "n_estimators": 300,
+    "random_state": 42,
+    "statistical_weight": 0.6,
+    "ml_weight": 0.4
+}

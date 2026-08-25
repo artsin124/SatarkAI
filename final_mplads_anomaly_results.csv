@@ -1,0 +1,545 @@
+hon_ble_members_of_parliaments,constituency,utilization_mock,pending_ratio_pct,cancelled_ratio_pct,average_project_cost_mock,average_delay_days_mock,statistical_anomaly_score,ml_anomaly_score,final_risk_score,final_risk_level,primary_anomaly_reason,detailed_reason,previously_selected_10
+Sanjay Uttamrao Deshmukh,YAVATMAL-WASHIM,77.18,50.0,50.0,15206600,168,83.38,95.17,88.1,CRITICAL,High cancellation ratio,"Pending work ratio is 50.0%; Cancellation ratio is 50.0%; Average project cost is ₹15,206,600; Average delay is 168 days",True
+Appalanaidu Kalisetti,VIZIANAGARAM,49.86,55.55555555555556,33.33333333333333,6958100,111,88.25,65.33,79.08,CRITICAL,High pending-work ratio,"Utilization is 49.9%; Pending work ratio is 55.6%; Cancellation ratio is 33.3%; Average project cost is ₹6,958,100",False
+VISHAL,SANGLI,86.31,37.5,50.0,14809000,147,73.35,85.0,78.01,CRITICAL,High cancellation ratio,"Cancellation ratio is 50.0%; Average project cost is ₹14,809,000; Average delay is 147 days",True
+Y S Avinash Reddy,KADAPA,54.63,33.33333333333333,44.44444444444444,9227600,103,78.05,69.36,74.57,HIGH,High cancellation ratio,"Utilization is 54.6%; Cancellation ratio is 44.4%; Average project cost is ₹9,227,600",False
+Rajkumar Chahar,FATEHPUR SIKRI,56.52,22.22222222222222,44.44444444444444,9068500,130,75.72,72.09,74.27,HIGH,High cancellation ratio,"Utilization is 56.5%; Cancellation ratio is 44.4%; Average project cost is ₹9,068,500; Average delay is 130 days",False
+KALI CHARAN SINGH,CHATRA,46.97,46.15384615384615,23.07692307692308,4585800,156,86.65,51.68,72.66,HIGH,Low utilization,"Utilization is 47.0%; Pending work ratio is 46.2%; Cancellation ratio is 23.1%; Average project cost is ₹4,585,800; Average delay is 156 days",False
+BAPI HALDAR,MATHURAPUR(SC),78.27,10.0,40.0,10151600,173,67.39,78.99,72.03,HIGH,High cancellation ratio,"Cancellation ratio is 40.0%; Average project cost is ₹10,151,600; Average delay is 173 days",False
+CHAVAN VASANTRAO BALWANTRAO,NANDED,0.0,40.0,15.0,0,5,51.07,100.0,70.64,HIGH,Low utilization,Utilization is 0.0%; Cancellation ratio is 15.0%,False
+Mahendra Singh Solanky,DEWAS(SC),46.22,45.45454545454545,36.36363636363637,5083600,33,74.49,64.71,70.58,HIGH,High cancellation ratio,"Utilization is 46.2%; Pending work ratio is 45.5%; Cancellation ratio is 36.4%; Average project cost is ₹5,083,600",False
+ZIA UR REHMAN,SAMBHAL,69.45,53.84615384615385,15.384615384615383,7520600,168,83.47,43.46,67.47,HIGH,High pending-work ratio,"Pending work ratio is 53.8%; Cancellation ratio is 15.4%; Average project cost is ₹7,520,600; Average delay is 168 days",True
+Shri Sarbananda Sonowal (18LS),DIBRUGARH,61.01,25.0,37.5,10467900,96,71.51,60.68,67.18,HIGH,High cancellation ratio,"Cancellation ratio is 37.5%; Average project cost is ₹10,467,900",False
+AGA SYED RUHULLAH MEHDI,SRINAGAR,45.38,18.181818181818183,27.27272727272727,5292000,130,75.18,52.67,66.18,HIGH,Low utilization,"Utilization is 45.4%; Cancellation ratio is 27.3%; Average project cost is ₹5,292,000; Average delay is 130 days",False
+ADITYA YADAV,BADAUN,74.88,56.25,18.75,6222800,152,79.83,45.3,66.02,HIGH,High pending-work ratio,"Pending work ratio is 56.2%; Cancellation ratio is 18.8%; Average project cost is ₹6,222,800; Average delay is 152 days",True
+GAURAV GOGOI,JORHAT,86.12,44.44444444444444,33.33333333333333,12630000,56,65.29,63.94,64.75,HIGH,High average project cost,"Pending work ratio is 44.4%; Cancellation ratio is 33.3%; Average project cost is ₹12,630,000",False
+AMAR SHARADRAO KALE,WARDHA,52.85,35.714285714285715,28.57142857142857,5312600,144,80.29,40.46,64.36,HIGH,High cancellation ratio,"Utilization is 52.9%; Cancellation ratio is 28.6%; Average project cost is ₹5,312,600; Average delay is 144 days",False
+TRIVENDRA SINGH RAWAT,HARDWAR,57.0,50.0,20.0,8307700,118,83.12,36.16,64.34,HIGH,High average project cost,"Utilization is 57.0%; Pending work ratio is 50.0%; Cancellation ratio is 20.0%; Average project cost is ₹8,307,700",False
+Piyush Vedprakash Goyal,MUMBAI NORTH,51.47,38.46153846153847,30.76923076923077,5551900,103,78.55,42.99,64.33,HIGH,High cancellation ratio,"Utilization is 51.5%; Cancellation ratio is 30.8%; Average project cost is ₹5,551,900",False
+Vaithilingam Ve,Puducherry,57.9,52.94117647058824,11.76470588235294,6360800,159,84.82,32.92,64.06,HIGH,High pending-work ratio,"Utilization is 57.9%; Pending work ratio is 52.9%; Cancellation ratio is 11.8%; Average project cost is ₹6,360,800; Average delay is 159 days",False
+Asit Kumar Mal,BOLPUR(SC),66.25,25.0,25.0,13789100,128,72.61,51.21,64.05,HIGH,High average project cost,"Cancellation ratio is 25.0%; Average project cost is ₹13,789,100; Average delay is 128 days",False
+AMBICA G LAKSHMINARAYANA VALMIKI,ANANTAPUR,76.6,52.94117647058824,23.52941176470588,8060500,114,76.84,42.11,62.95,HIGH,High pending-work ratio,"Pending work ratio is 52.9%; Cancellation ratio is 23.5%; Average project cost is ₹8,060,500",False
+RADHAKRISHNA,GULBARGA(SC),57.05,10.0,40.0,7297200,1,54.98,74.53,62.8,HIGH,High cancellation ratio,"Utilization is 57.0%; Cancellation ratio is 40.0%; Average project cost is ₹7,297,200",False
+Unknown,Unknown,88.95,37.5,12.5,4420526600,81,61.29,63.13,62.03,HIGH,High average project cost,"Cancellation ratio is 12.5%; Average project cost is ₹4,420,526,600",False
+MANJU SHARMA,JAIPUR,54.61,33.33333333333333,11.11111111111111,9839800,156,79.3,32.78,60.69,HIGH,High average project cost,"Utilization is 54.6%; Cancellation ratio is 11.1%; Average project cost is ₹9,839,800; Average delay is 156 days",False
+BIPLAB KUMAR DEB,TRIPURA WEST,83.33,36.36363636363637,36.36363636363637,10484600,80,66.1,52.38,60.61,HIGH,High cancellation ratio,"Cancellation ratio is 36.4%; Average project cost is ₹10,484,600",False
+CAPTAIN VIRIATO FERNANDES,SOUTH GOA,52.0,50.0,18.75,4452200,121,81.29,29.34,60.51,HIGH,High cancellation ratio,"Utilization is 52.0%; Pending work ratio is 50.0%; Cancellation ratio is 18.8%; Average project cost is ₹4,452,200; Average delay is 121 days",False
+VAMSI KRISHNA GADDAM,PEDDAPALLE,84.57,22.22222222222222,33.33333333333333,13158900,32,54.36,66.99,59.41,MEDIUM,High average project cost,"Cancellation ratio is 33.3%; Average project cost is ₹13,158,900",False
+Kaushalendra Kumar,NALANDA,58.79,37.5,25.0,10772300,17,67.26,47.57,59.38,MEDIUM,High average project cost,"Utilization is 58.8%; Cancellation ratio is 25.0%; Average project cost is ₹10,772,300",False
+SHAFI PARAMBIL,VADAKARA,51.69,46.15384615384615,23.07692307692308,5795600,58,75.42,35.02,59.26,MEDIUM,High cancellation ratio,"Utilization is 51.7%; Pending work ratio is 46.2%; Cancellation ratio is 23.1%; Average project cost is ₹5,795,600",False
+SAVITRI THAKUR,DHAR(ST),70.79,55.55555555555556,11.11111111111111,10386100,45,69.15,42.77,58.6,MEDIUM,High pending-work ratio,"Pending work ratio is 55.6%; Cancellation ratio is 11.1%; Average project cost is ₹10,386,100",False
+Shri Anil Firojiya,UJJAIN(SC),53.93,50.0,20.0,3834500,118,78.71,28.33,58.56,MEDIUM,High cancellation ratio,Utilization is 53.9%; Pending work ratio is 50.0%; Cancellation ratio is 20.0%,False
+THANGA TAMILSELVAN,THENI,58.5,50.0,22.22222222222222,4497800,106,77.35,30.03,58.42,MEDIUM,High cancellation ratio,"Utilization is 58.5%; Pending work ratio is 50.0%; Cancellation ratio is 22.2%; Average project cost is ₹4,497,800",False
+Anto Antony,PATHANAMTHITTA,78.29,14.285714285714285,28.57142857142857,8097800,145,64.8,48.52,58.29,MEDIUM,High cancellation ratio,"Cancellation ratio is 28.6%; Average project cost is ₹8,097,800; Average delay is 145 days",False
+Dhairyasheel Sambhajirao Mane,HATKANANGLE,58.81,52.38095238095239,14.285714285714285,3476800,152,78.93,27.23,58.25,MEDIUM,High pending-work ratio,Utilization is 58.8%; Pending work ratio is 52.4%; Cancellation ratio is 14.3%; Average delay is 152 days,False
+VIRENDRA SINGH,CHANDAULI,71.46,18.181818181818183,36.36363636363637,8673300,5,53.16,65.33,58.03,MEDIUM,High cancellation ratio,"Cancellation ratio is 36.4%; Average project cost is ₹8,673,300",False
+Gyaneshwar Patil,KHANDWA,61.38,10.0,20.0,7923200,146,68.71,41.69,57.9,MEDIUM,High average project cost,"Cancellation ratio is 20.0%; Average project cost is ₹7,923,200; Average delay is 146 days",False
+PRIYA SAROJ,MACHHLISHAHR(SC),67.75,46.66666666666666,26.666666666666668,5895200,89,73.24,34.38,57.7,MEDIUM,High cancellation ratio,"Pending work ratio is 46.7%; Cancellation ratio is 26.7%; Average project cost is ₹5,895,200",False
+C.M.RAMESH,ANAKAPALLE,65.32,10.0,30.0,10965300,26,56.03,59.96,57.6,MEDIUM,High average project cost,"Cancellation ratio is 30.0%; Average project cost is ₹10,965,300",False
+Shyamkumar,RAMTEK(SC),89.23,50.0,11.11111111111111,6207600,167,71.36,36.41,57.38,MEDIUM,High average delay,"Pending work ratio is 50.0%; Cancellation ratio is 11.1%; Average project cost is ₹6,207,600; Average delay is 167 days",True
+YADUVEER KRISHNADATTA CHAMARAJA WADIYAR,MYSORE,54.97,33.33333333333333,22.22222222222222,8943300,10,64.83,45.55,57.12,MEDIUM,High average project cost,"Utilization is 55.0%; Cancellation ratio is 22.2%; Average project cost is ₹8,943,300",False
+DR.K.SUDHAKAR,CHIKBALLAPUR,55.47,50.0,14.285714285714285,2846500,153,77.7,26.19,57.1,MEDIUM,High pending-work ratio,Utilization is 55.5%; Pending work ratio is 50.0%; Cancellation ratio is 14.3%; Average delay is 153 days,False
+CHHATRA PAL SINGH GANGWAR,BAREILLY,56.26,50.0,12.5,3242300,160,78.35,24.96,56.99,MEDIUM,High average delay,Utilization is 56.3%; Pending work ratio is 50.0%; Cancellation ratio is 12.5%; Average delay is 160 days,False
+KADIYAM KAVYA,WARANGEL(SC),93.22,33.33333333333333,22.22222222222222,12510800,119,64.21,45.84,56.86,MEDIUM,High average project cost,"Cancellation ratio is 22.2%; Average project cost is ₹12,510,800",False
+BHARAT SINGH KUSHWAH,GWALIOR,86.98,15.384615384615383,30.76923076923077,10107100,115,59.83,52.32,56.83,MEDIUM,High cancellation ratio,"Cancellation ratio is 30.8%; Average project cost is ₹10,107,100",False
+Sanjay Kumar Bandi,KARIMNAGAR,77.53,53.84615384615385,15.384615384615383,8910600,31,65.85,43.25,56.81,MEDIUM,High pending-work ratio,"Pending work ratio is 53.8%; Cancellation ratio is 15.4%; Average project cost is ₹8,910,600",False
+BHOJRAJ NAG,KANKER(ST),58.13,7.142857142857142,28.57142857142857,6290300,95,63.11,46.04,56.28,MEDIUM,High cancellation ratio,"Utilization is 58.1%; Cancellation ratio is 28.6%; Average project cost is ₹6,290,300",False
+Smt Veena Devi,VAISHALI,88.24,54.54545454545454,18.181818181818183,5797400,99,68.73,37.44,56.21,MEDIUM,High pending-work ratio,"Pending work ratio is 54.5%; Cancellation ratio is 18.2%; Average project cost is ₹5,797,400",True
+Priyanka Gandhi Vadra,WAYANAD,92.46,40.0,16.0,4036700,175,65.42,41.47,55.84,MEDIUM,High average delay,Cancellation ratio is 16.0%; Average delay is 175 days,True
+M.K. VISHNUPRASAD,CUDDALORE,87.72,33.33333333333333,33.33333333333333,9146400,16,54.36,57.68,55.69,MEDIUM,High cancellation ratio,"Cancellation ratio is 33.3%; Average project cost is ₹9,146,400",False
+Amol Ramsing Kolhe,SHIRUR,92.58,35.294117647058826,23.52941176470588,7341800,139,66.16,39.92,55.66,MEDIUM,High cancellation ratio,"Cancellation ratio is 23.5%; Average project cost is ₹7,341,800; Average delay is 139 days",True
+DR. HEMANT VISHNU SAVARA,PALGHAR(ST),50.06,55.00000000000001,3.333333333333333,1203700,165,62.52,45.32,55.64,MEDIUM,High pending-work ratio,Utilization is 50.1%; Pending work ratio is 55.0%; Average delay is 165 days,False
+Mukesh Rajput,FARRUKHABAD,47.06,6.25,0.0,4164900,179,55.11,56.19,55.54,MEDIUM,High average delay,Utilization is 47.1%; Average delay is 179 days,False
+AJENDRA SINGH LODHI,HAMIRPUR_UP,52.05,33.33333333333333,0.0,5325500,179,65.46,38.83,54.81,MEDIUM,High average delay,"Utilization is 52.0%; Average project cost is ₹5,325,500; Average delay is 179 days",False
+Mala Roy,KOLKATA DAKSHIN,79.08,33.33333333333333,11.11111111111111,12639100,150,69.5,32.72,54.79,MEDIUM,High average project cost,"Cancellation ratio is 11.1%; Average project cost is ₹12,639,100; Average delay is 150 days",False
+ARUN NEHRU,PERAMBALUR,61.23,55.172413793103445,13.79310344827586,2795700,112,72.83,27.38,54.65,MEDIUM,High pending-work ratio,Pending work ratio is 55.2%; Cancellation ratio is 13.8%,False
+MUHAMMED HAMDULLAH SAYEED,LAKSHADWEEP(ST),93.89,45.45454545454545,18.181818181818183,10804500,36,58.33,48.87,54.55,MEDIUM,High average project cost,"Pending work ratio is 45.5%; Cancellation ratio is 18.2%; Average project cost is ₹10,804,500",False
+Dinesh Chandra Yadav,MADHEPURA,55.83,53.44827586206896,1.7241379310344829,1313700,180,59.34,46.78,54.32,MEDIUM,High average delay,Utilization is 55.8%; Pending work ratio is 53.4%; Average delay is 180 days,False
+RUCHI VIRA,MORADABAD,75.24,56.00000000000001,16.0,4341400,102,71.01,28.96,54.19,MEDIUM,High pending-work ratio,"Pending work ratio is 56.0%; Cancellation ratio is 16.0%; Average project cost is ₹4,341,400",False
+LAXMIKANT PAPPU NISHAD,SANT KABIR NAGAR,63.87,31.25,25.0,5439000,117,70.99,27.07,53.42,MEDIUM,High cancellation ratio,"Cancellation ratio is 25.0%; Average project cost is ₹5,439,000",False
+MIAN ALTAF AHMAD,ANANTNAG,49.12,25.71428571428571,11.428571428571429,1897200,173,65.13,35.77,53.39,MEDIUM,High average delay,Utilization is 49.1%; Cancellation ratio is 11.4%; Average delay is 173 days,False
+E.T. MOHAMMED BASHEER,MALAPPURAM,51.22,14.285714285714285,14.285714285714285,3993700,152,68.51,30.6,53.35,MEDIUM,Low utilization,Utilization is 51.2%; Cancellation ratio is 14.3%; Average delay is 152 days,False
+Rahul Kaswan,CHURU,48.23,33.33333333333333,16.666666666666664,5399800,13,64.34,36.61,53.25,MEDIUM,Low utilization,"Utilization is 48.2%; Cancellation ratio is 16.7%; Average project cost is ₹5,399,800",False
+Smt Hema Malini,MATHURA,45.81,54.83870967741935,9.67741935483871,1988900,47,63.82,37.0,53.09,MEDIUM,Low utilization,Utilization is 45.8%; Pending work ratio is 54.8%; Cancellation ratio is 9.7%,False
+SANATAN PANDEY,BALLIA,86.93,35.294117647058826,23.52941176470588,8979200,110,66.03,32.65,52.68,MEDIUM,High average project cost,"Cancellation ratio is 23.5%; Average project cost is ₹8,979,200",False
+BABU SINGH KUSHWAHA,JAUNPUR,52.34,18.75,25.0,4693400,78,65.31,33.69,52.66,MEDIUM,High cancellation ratio,"Utilization is 52.3%; Cancellation ratio is 25.0%; Average project cost is ₹4,693,400",False
+Hasmukh Bhai Soma Bhai Patel,AHMEDABAD EAST,65.84,33.33333333333333,22.22222222222222,9403200,67,67.63,30.18,52.65,MEDIUM,High average project cost,"Cancellation ratio is 22.2%; Average project cost is ₹9,403,200",False
+Balashowry Vallabbhaneni,MACHILIPATNAM,47.69,19.047619047619047,19.047619047619047,3320400,93,64.82,32.88,52.04,MEDIUM,Low utilization,Utilization is 47.7%; Cancellation ratio is 19.0%,False
+Pankaj Chowdhary,MAHARAJGANJ_UP,94.18,33.33333333333333,22.22222222222222,7391100,120,62.46,35.82,51.8,MEDIUM,High cancellation ratio,"Cancellation ratio is 22.2%; Average project cost is ₹7,391,100; Average delay is 120 days",False
+MAHIMA KUMARI MEWAR,RAJSAMAND,80.2,33.33333333333333,25.0,10358200,58,61.88,36.15,51.59,MEDIUM,High average project cost,"Cancellation ratio is 25.0%; Average project cost is ₹10,358,200",False
+KAMLESH JANGDE,JANJGIR CHAMPA(SC),70.32,38.46153846153847,23.07692307692308,7576600,11,60.61,37.79,51.48,MEDIUM,High cancellation ratio,"Cancellation ratio is 23.1%; Average project cost is ₹7,576,600",False
+Dr Mohammad Jawed,KISHANGANJ,48.03,53.84615384615385,7.6923076923076925,2421900,3,58.97,39.95,51.36,MEDIUM,High pending-work ratio,Utilization is 48.0%; Pending work ratio is 53.8%,False
+DR. PRASHANT YADAORAO PADOLE,BHANDARA-GONDIYA,63.4,46.15384615384615,15.384615384615383,7301500,41,68.97,24.72,51.27,MEDIUM,High average project cost,"Pending work ratio is 46.2%; Cancellation ratio is 15.4%; Average project cost is ₹7,301,500",False
+BALWANT BASWANT WANKHADE,AMRAVATI(SC),67.25,45.45454545454545,9.090909090909092,10570100,12,61.07,36.29,51.16,MEDIUM,High average project cost,"Pending work ratio is 45.5%; Average project cost is ₹10,570,100",False
+DR RAJKUMAR SANGWAN,BAGHPAT,55.97,34.61538461538461,15.384615384615383,2834500,147,70.37,22.03,51.03,MEDIUM,High cancellation ratio,Utilization is 56.0%; Cancellation ratio is 15.4%; Average delay is 147 days,False
+Shri Suresh Kodikunnil,MAVELIKKARA(SC),60.45,38.46153846153847,11.538461538461538,3811500,162,73.69,16.66,50.88,MEDIUM,High average delay,Cancellation ratio is 11.5%; Average delay is 162 days,False
+MURLIDHAR MOHOL,PUNE,47.3,23.809523809523807,19.047619047619047,3245300,19,57.39,40.73,50.73,MEDIUM,Low utilization,Utilization is 47.3%; Cancellation ratio is 19.0%,False
+MAHESH KASHYAP,BASTAR(ST),71.54,27.27272727272727,9.090909090909092,9548900,148,67.1,25.77,50.57,MEDIUM,High average project cost,"Average project cost is ₹9,548,900; Average delay is 148 days",False
+DINESHBHAI MAKWANA,AHMEDABAD WEST(SC),90.62,25.0,12.5,15341600,116,59.08,37.77,50.56,MEDIUM,High average project cost,"Cancellation ratio is 12.5%; Average project cost is ₹15,341,600",False
+Swami Sachchidanandhari Sakshi ji Maharaj,UNNAO,65.55,8.0,12.0,3331500,174,59.82,36.63,50.54,MEDIUM,High average delay,Cancellation ratio is 12.0%; Average delay is 174 days,False
+RAVINDRA DATTARAM WAIKAR,MUMBAI NORTH WEST,70.92,18.181818181818183,27.27272727272727,8404600,64,59.61,36.31,50.29,MEDIUM,High cancellation ratio,"Cancellation ratio is 27.3%; Average project cost is ₹8,404,600",False
+KRISHNA DEVI SHIVSHANKER PATEL,BANDA,50.16,50.0,6.25,3794400,109,71.29,18.48,50.17,MEDIUM,Low utilization,Utilization is 50.2%; Pending work ratio is 50.0%,False
+KALI CHARAN MUNDA,KHUNTI(ST),45.24,53.333333333333336,6.666666666666667,1376700,39,55.96,41.41,50.14,MEDIUM,Low utilization,Utilization is 45.2%; Pending work ratio is 53.3%,False
+KONDA VISHWESHWAR REDDY,CHELVELLA,54.57,14.285714285714285,21.428571428571427,6374400,42,60.28,34.23,49.86,MEDIUM,High cancellation ratio,"Utilization is 54.6%; Cancellation ratio is 21.4%; Average project cost is ₹6,374,400",False
+SHIVMANGAL SINGH TOMAR,MORENA,50.65,11.11111111111111,22.22222222222222,3480200,75,59.39,35.39,49.79,MEDIUM,High cancellation ratio,Utilization is 50.6%; Cancellation ratio is 22.2%,False
+UJJWAL RAMAN SINGH,ALLAHABAD,59.09,45.0,20.0,4038000,50,66.93,24.01,49.76,MEDIUM,High cancellation ratio,Utilization is 59.1%; Pending work ratio is 45.0%; Cancellation ratio is 20.0%,False
+SUDHAKAR SINGH,BUXAR,61.03,45.94594594594595,10.81081081081081,2729600,149,71.36,17.08,49.65,MEDIUM,High average delay,Pending work ratio is 45.9%; Cancellation ratio is 10.8%; Average delay is 149 days,False
+Mr Gopal Jee Thakur,DARBHANGA,72.26,43.75,18.75,5945300,8,59.17,35.38,49.65,MEDIUM,High cancellation ratio,"Pending work ratio is 43.8%; Cancellation ratio is 18.8%; Average project cost is ₹5,945,300",False
+NARAYAN TATU RANE,RATNAGIRI-SINDHUDURG,48.05,47.61904761904761,9.523809523809524,3340300,57,67.96,21.64,49.43,MEDIUM,Low utilization,Utilization is 48.0%; Pending work ratio is 47.6%; Cancellation ratio is 9.5%,False
+Ravi Shankar Prasad,PATNA SAHIB,71.5,7.142857142857142,28.57142857142857,6555900,48,52.33,44.96,49.38,MEDIUM,High cancellation ratio,"Cancellation ratio is 28.6%; Average project cost is ₹6,555,900",False
+Abu Taher Khan,MURSHIDABAD,59.76,13.333333333333334,6.666666666666667,5598100,169,63.49,28.1,49.33,MEDIUM,High average delay,"Average project cost is ₹5,598,100; Average delay is 169 days",False
+DR. S P SINGH,PRATAPGARH,58.51,40.81632653061224,8.16326530612245,1541100,178,62.79,28.61,49.12,MEDIUM,High average delay,Utilization is 58.5%; Pending work ratio is 40.8%; Average delay is 178 days,False
+Ravindra Shyamnarayan Alias Ravi Kishan Shukla,GORAKHPUR,67.27,24.13793103448276,13.79310344827586,3044600,171,64.38,25.98,49.02,MEDIUM,High average delay,Cancellation ratio is 13.8%; Average delay is 171 days,False
+Sanjay Jaiswal,PASCHIM CHAMPARAN,66.84,6.666666666666667,0.0,5996900,180,50.35,46.84,48.95,MEDIUM,High average delay,"Average project cost is ₹5,996,900; Average delay is 180 days",False
+RAJEEV BHARDWAJ,KANGRA,55.3,48.93617021276596,2.127659574468085,1978500,179,61.53,30.06,48.94,MEDIUM,High average delay,Utilization is 55.3%; Pending work ratio is 48.9%; Average delay is 179 days,False
+Sribharat MathuKumli,VISAKHAPATNAM,95.74,30.0,10.0,14131800,88,54.14,41.04,48.9,MEDIUM,High average project cost,"Cancellation ratio is 10.0%; Average project cost is ₹14,131,800",False
+Kakoli Ghosh Dastidar,BARASAT,65.02,38.46153846153847,15.384615384615383,3138900,139,69.15,18.18,48.76,MEDIUM,High cancellation ratio,Cancellation ratio is 15.4%; Average delay is 139 days,False
+DR. KIRSAN NAMDEO,GADCHIROLI-CHIMUR(ST),55.56,31.57894736842105,21.052631578947366,3706500,84,65.86,23.0,48.72,MEDIUM,High cancellation ratio,Utilization is 55.6%; Cancellation ratio is 21.1%,False
+Vishnu Dayal Ram,PALAMU(SC),49.54,20.0,10.0,6897000,73,64.85,24.45,48.69,MEDIUM,Low utilization,"Utilization is 49.5%; Cancellation ratio is 10.0%; Average project cost is ₹6,897,000",False
+ANUP SANJAY DHOTRE,AKOLA,95.59,9.523809523809524,9.523809523809524,6246900,169,52.22,43.33,48.66,MEDIUM,High average delay,"Cancellation ratio is 9.5%; Average project cost is ₹6,246,900; Average delay is 169 days",False
+Shri Amar Singh,FATEHGARH SAHIB(SC),83.79,52.083333333333336,8.333333333333332,2190600,171,61.97,28.34,48.52,MEDIUM,High average delay,Pending work ratio is 52.1%; Average delay is 171 days,False
+Suresh Kumar Kashyap,SHIMLA (SC),47.96,40.42553191489361,8.51063829787234,1504300,144,64.01,24.9,48.37,MEDIUM,Low utilization,Utilization is 48.0%; Average delay is 144 days,False
+DAGGUMALLA PRASADA RAO,CHITTOOR,47.52,48.97959183673469,8.16326530612245,1396600,102,62.68,26.61,48.25,MEDIUM,Low utilization,Utilization is 47.5%; Pending work ratio is 49.0%,False
+NALIN SOREN,DUMKA(ST),87.71,31.25,25.0,7616900,71,58.4,32.23,47.93,MEDIUM,High cancellation ratio,"Cancellation ratio is 25.0%; Average project cost is ₹7,616,900",False
+MALVINDER SINGH KANG,ANANDPUR SAHIB,47.04,5.88235294117647,3.92156862745098,1178600,159,45.09,52.06,47.88,MEDIUM,Low utilization,Utilization is 47.0%; Average delay is 159 days,False
+Gajendra Singh Patel,KHARGONE(ST),47.25,4.3478260869565215,0.0,2782100,152,48.2,47.0,47.72,MEDIUM,Low utilization,Utilization is 47.2%; Average delay is 152 days,False
+BHUPENDER YADAV,ALWAR,68.7,38.46153846153847,0.0,6421600,169,61.34,26.87,47.55,MEDIUM,High average delay,"Average project cost is ₹6,421,600; Average delay is 169 days",False
+ROOP KUMARI CHOUDHARY,MAHASAMUND,48.41,53.57142857142857,1.7857142857142856,1113500,97,53.49,38.34,47.43,MEDIUM,High pending-work ratio,Utilization is 48.4%; Pending work ratio is 53.6%,False
+Pratima Mondal,JOYNAGAR(SC),49.58,37.5,6.25,4501900,118,69.41,13.93,47.22,MEDIUM,Low utilization,"Utilization is 49.6%; Average project cost is ₹4,501,900",False
+MISHA BHARTI,PATALIPUTRA,89.44,51.11111111111111,6.666666666666667,2752200,170,60.22,27.54,47.15,MEDIUM,High average delay,Pending work ratio is 51.1%; Average delay is 170 days,True
+BRIJENDRA SINGH OLA,JHUNJHUNU,49.39,11.76470588235294,17.647058823529413,4096400,47,57.81,31.09,47.12,MEDIUM,Low utilization,Utilization is 49.4%; Cancellation ratio is 17.6%,False
+Shatrughan Sinha,ASANSOL,90.63,27.58620689655172,10.344827586206897,3976400,177,58.18,30.39,47.06,MEDIUM,High average delay,Cancellation ratio is 10.3%; Average delay is 177 days,False
+Gajendra Singh Shekhawat,JODHPUR,65.46,45.23809523809524,9.523809523809524,1920900,167,64.25,20.84,46.89,MEDIUM,High average delay,Pending work ratio is 45.2%; Cancellation ratio is 9.5%; Average delay is 167 days,False
+JAGADISH SHETTAR,BELGAUM,61.79,10.0,0.0,7450500,159,53.42,36.06,46.48,MEDIUM,High average project cost,"Average project cost is ₹7,450,500; Average delay is 159 days",False
+RAJESH RANJAN ALIAS PAPPU YADAV,PURNEA,76.51,30.0,5.0,4723100,180,59.43,26.67,46.33,MEDIUM,High average delay,"Average project cost is ₹4,723,100; Average delay is 180 days",False
+MANISH JAISWAL,HAZARIBAGH,55.93,16.666666666666664,8.333333333333332,5981700,134,65.18,18.01,46.31,MEDIUM,High average project cost,"Utilization is 55.9%; Average project cost is ₹5,981,700; Average delay is 134 days",False
+Smt Sandhya Ray,BHIND(SC),87.67,51.78571428571429,7.142857142857142,2054000,171,57.65,29.06,46.21,MEDIUM,High average delay,Pending work ratio is 51.8%; Average delay is 171 days,True
+DR. M.P ABDUSSAMAD SAMADANI,PONNANI,53.98,38.46153846153847,7.6923076923076925,2320500,159,67.06,14.7,46.12,MEDIUM,High average delay,Utilization is 54.0%; Average delay is 159 days,False
+SHASHANK MANI,DEORIA,83.11,31.25,25.0,6546900,40,56.29,30.59,46.01,MEDIUM,High cancellation ratio,"Cancellation ratio is 25.0%; Average project cost is ₹6,546,900",False
+JITIN PRASADA,PILIBHIT,81.88,52.17391304347826,13.043478260869565,4934800,51,61.91,21.66,45.81,MEDIUM,High pending-work ratio,"Pending work ratio is 52.2%; Cancellation ratio is 13.0%; Average project cost is ₹4,934,800",False
+Dilip Saikia,Darrang-Udalguri,45.05,9.375,9.375,2038100,105,52.92,35.05,45.77,MEDIUM,Low utilization,Utilization is 45.0%; Cancellation ratio is 9.4%,False
+CN Annadurai,TIRUVANNAMALAI,73.1,52.63157894736842,2.631578947368421,2497400,171,60.09,24.2,45.73,MEDIUM,High average delay,Pending work ratio is 52.6%; Average delay is 171 days,False
+Kanimozhi Karunanidhi,THOOTHUKKUDI,61.87,9.090909090909092,18.181818181818183,7157800,45,55.61,30.89,45.72,MEDIUM,High average project cost,"Cancellation ratio is 18.2%; Average project cost is ₹7,157,800",False
+Shri Hanuman Beniwal,NAGAUR,48.57,51.85185185185185,7.4074074074074066,2464600,32,60.92,22.85,45.69,MEDIUM,Low utilization,Utilization is 48.6%; Pending work ratio is 51.9%,False
+Kangana Ranaut,MANDI,45.28,14.285714285714285,7.142857142857142,4560000,56,56.23,29.85,45.68,MEDIUM,Low utilization,"Utilization is 45.3%; Average project cost is ₹4,560,000",False
+Shri M K Raghavan,KOZHIKODE,53.99,47.61904761904761,9.523809523809524,3290400,71,66.62,13.98,45.56,MEDIUM,High pending-work ratio,Utilization is 54.0%; Pending work ratio is 47.6%; Cancellation ratio is 9.5%,False
+BALRAM NAIK PORIKA,MAHABUBABAD,45.03,36.53846153846153,0.0,1269300,118,48.33,41.18,45.47,MEDIUM,Low utilization,Utilization is 45.0%,False
+ALOK SHARMA,BHOPAL,54.82,53.125,3.125,2368900,124,62.76,18.93,45.23,MEDIUM,High pending-work ratio,Utilization is 54.8%; Pending work ratio is 53.1%; Average delay is 124 days,False
+Kalanidhi Veeraswamy,CHENNAI NORTH,74.53,51.61290322580645,12.903225806451612,3463000,88,64.5,16.29,45.22,MEDIUM,High pending-work ratio,Pending work ratio is 51.6%; Cancellation ratio is 12.9%,False
+DR. RAJ KUMAR CHABBEWAL,HOSHIARPUR(SC),47.82,52.17391304347826,0.0,2670800,7,49.1,39.04,45.08,MEDIUM,Low utilization,Utilization is 47.8%; Pending work ratio is 52.2%,False
+SUKHDEO BHAGAT,LOHARDAGA(ST),75.92,23.52941176470588,23.52941176470588,6419000,33,54.17,31.19,44.98,MEDIUM,High cancellation ratio,"Cancellation ratio is 23.5%; Average project cost is ₹6,419,000",False
+UMMEDA RAM BENIWAL,BARMER,94.19,15.384615384615383,7.6923076923076925,9222700,133,51.86,34.65,44.98,MEDIUM,High average project cost,"Average project cost is ₹9,222,700; Average delay is 133 days",False
+PARTHA BHOWMICK,BARRACKPUR,81.1,42.10526315789473,15.789473684210526,6166100,78,63.9,16.53,44.95,MEDIUM,High cancellation ratio,"Pending work ratio is 42.1%; Cancellation ratio is 15.8%; Average project cost is ₹6,166,100",False
+HARENDRA SINGH MALIK,MUZAFFARNAGAR,50.27,46.15384615384615,3.8461538461538463,2527200,127,64.43,15.71,44.94,MEDIUM,Low utilization,Utilization is 50.3%; Pending work ratio is 46.2%; Average delay is 127 days,False
+Ramprit Mandal,JHANJHARPUR,53.61,50.0,11.11111111111111,1894900,61,60.51,21.44,44.88,MEDIUM,High pending-work ratio,Utilization is 53.6%; Pending work ratio is 50.0%; Cancellation ratio is 11.1%,False
+Prabhubhai Nagarbhai Vasava,BARDOLI(ST),72.83,50.0,3.333333333333333,1777600,179,54.93,29.64,44.81,MEDIUM,High average delay,Pending work ratio is 50.0%; Average delay is 179 days,False
+SELVAGANAPATHI T M,SALEM,55.99,42.3728813559322,3.389830508474576,1383000,174,56.75,26.73,44.74,MEDIUM,High average delay,Utilization is 56.0%; Pending work ratio is 42.4%; Average delay is 174 days,False
+Nishikant Dubey,GODDA,67.7,50.0,4.761904761904762,2255700,168,61.76,18.42,44.42,MEDIUM,High average delay,Pending work ratio is 50.0%; Average delay is 168 days,False
+GODAM NAGESH,ADILABAD(ST),94.52,37.5,16.666666666666664,5003400,98,57.65,24.49,44.39,MEDIUM,High cancellation ratio,"Cancellation ratio is 16.7%; Average project cost is ₹5,003,400",False
+Raju Bista,DARJEELING,64.29,54.54545454545454,9.090909090909092,2839800,58,62.52,17.2,44.39,MEDIUM,High pending-work ratio,Pending work ratio is 54.5%,False
+KOTA SRINIVAS POOJARY,UDUPI CHIKMAGALUR,75.31,13.333333333333334,20.0,6155500,92,56.65,25.55,44.21,MEDIUM,High cancellation ratio,"Cancellation ratio is 20.0%; Average project cost is ₹6,155,500",False
+DR. HEMANG JOSHI,VADODARA,55.92,9.090909090909092,9.090909090909092,6510400,94,59.17,21.78,44.21,MEDIUM,High average project cost,"Utilization is 55.9%; Average project cost is ₹6,510,400",False
+BHAUSAHEB RAJARAM WAKCHAURE,SHIRDI(SC),82.63,21.428571428571427,21.428571428571427,7246700,51,54.06,29.16,44.1,MEDIUM,High cancellation ratio,"Cancellation ratio is 21.4%; Average project cost is ₹7,246,700",False
+MANOJ TIGGA,ALIPURDUARS(ST),65.65,41.66666666666667,16.666666666666664,3930100,20,58.71,22.06,44.05,MEDIUM,High cancellation ratio,Pending work ratio is 41.7%; Cancellation ratio is 16.7%,False
+Kiren Rijiju,ARUNACHAL WEST,72.36,18.181818181818183,9.090909090909092,9320600,118,60.48,19.03,43.9,MEDIUM,High average project cost,"Average project cost is ₹9,320,600",False
+GANAPATHY RAJKUMAR P,COIMBATORE,61.52,40.35087719298245,7.017543859649122,1491200,171,59.5,20.34,43.84,MEDIUM,High average delay,Average delay is 171 days,False
+SAYANI GHOSH,JADAVPUR,82.57,36.84210526315789,10.526315789473683,5389600,147,65.68,11.07,43.84,MEDIUM,High average delay,"Cancellation ratio is 10.5%; Average project cost is ₹5,389,600; Average delay is 147 days",False
+BAJRANG MANOHAR SONWANE,BEED,72.23,40.0,10.0,2754600,156,64.43,12.77,43.77,MEDIUM,High average delay,Cancellation ratio is 10.0%; Average delay is 156 days,False
+JITENDRA KUMAR DOHARE,ETAWAH(SC),49.83,45.65217391304348,0.0,1765700,147,55.72,25.69,43.71,MEDIUM,Low utilization,Utilization is 49.8%; Pending work ratio is 45.7%; Average delay is 147 days,False
+Rao Inderjit Singh,GURGAON,50.47,45.0,5.0,1144000,116,55.5,25.99,43.7,MEDIUM,Low utilization,Utilization is 50.5%; Pending work ratio is 45.0%,False
+Vijay Kumar Hansdak,RAJMAHAL(ST),45.22,23.809523809523807,4.761904761904762,2852900,108,57.43,23.03,43.67,MEDIUM,Low utilization,Utilization is 45.2%,False
+DR. PRADEEP KUMAR PANIGRAHY,BERHAMPUR,61.34,31.48148148148148,7.4074074074074066,1546800,176,56.84,23.67,43.57,MEDIUM,High average delay,Average delay is 176 days,False
+MURARI LAL MEENA,DAUSA(ST),60.39,46.0,4.0,1586300,171,58.31,21.39,43.54,MEDIUM,High average delay,Pending work ratio is 46.0%; Average delay is 171 days,False
+AMARSING TISSO,Diphu (ST),66.56,16.666666666666664,11.11111111111111,4514300,152,63.0,14.13,43.45,MEDIUM,High average delay,"Cancellation ratio is 11.1%; Average project cost is ₹4,514,300; Average delay is 152 days",False
+Mala Rajya Laxmi Shah,TEHRI GARHWAL,53.33,27.27272727272727,0.0,6995500,110,57.3,22.51,43.38,MEDIUM,High average project cost,"Utilization is 53.3%; Average project cost is ₹6,995,500",False
+Smt Himadri Singh,SHAHDOL (ST),69.34,55.00000000000001,0.0,4905600,60,53.35,28.07,43.24,MEDIUM,High pending-work ratio,"Pending work ratio is 55.0%; Average project cost is ₹4,905,600",False
+Shri Arjun Ram Meghwal,BIKANER(SC),63.24,19.047619047619047,14.285714285714285,4221000,126,63.82,12.16,43.16,MEDIUM,High cancellation ratio,Cancellation ratio is 14.3%; Average delay is 126 days,False
+Sudip Bandyopadhyay,KOLKATA UTTAR,65.48,50.0,0.0,7213300,57,55.59,24.49,43.15,MEDIUM,High average project cost,"Pending work ratio is 50.0%; Average project cost is ₹7,213,300",False
+Ravindra Vasantrao Chavan,NANDED,95.74,40.0,5.714285714285714,3847200,154,53.99,26.48,42.99,MEDIUM,High average delay,Average delay is 154 days,False
+RAM PRASAD CHAUDHARY,BASTI,54.32,8.333333333333332,0.0,8085800,43,42.81,43.01,42.89,MEDIUM,High average project cost,"Utilization is 54.3%; Average project cost is ₹8,085,800",False
+BHAJAN LAL JATAV,KARAULI-DHOLPUR(SC),88.9,37.5,12.5,4945000,132,62.35,13.71,42.89,MEDIUM,High cancellation ratio,"Cancellation ratio is 12.5%; Average project cost is ₹4,945,000; Average delay is 132 days",False
+DR. LATA WANKHEDE,SAGAR,66.56,16.666666666666664,8.333333333333332,7163400,129,61.82,14.47,42.88,MEDIUM,High average project cost,"Average project cost is ₹7,163,400; Average delay is 129 days",False
+ROBERT BRUCE C,TIRUNELVELI,69.38,51.51515151515152,12.12121212121212,2657700,43,58.38,19.41,42.79,MEDIUM,High pending-work ratio,Pending work ratio is 51.5%; Cancellation ratio is 12.1%,False
+ANIL YESHWANT DESAI,MUMBAI SOUTH CENTRAL,53.99,52.0,6.0,1399000,98,57.79,20.22,42.76,MEDIUM,High pending-work ratio,Utilization is 54.0%; Pending work ratio is 52.0%,False
+DHAVAL LAXMANBHAI PATEL,VALSAD(ST),79.51,48.0,4.0,4334500,147,60.94,15.28,42.68,MEDIUM,High pending-work ratio,Pending work ratio is 48.0%; Average delay is 147 days,False
+ARUP CHAKRABORTY,BANKURA,66.66,5.263157894736842,15.789473684210526,4784900,74,52.02,28.44,42.59,MEDIUM,High cancellation ratio,"Cancellation ratio is 15.8%; Average project cost is ₹4,784,900",False
+Vinod Chavda,KACHCHH(SC),95.7,20.0,7.272727272727272,2490500,180,46.29,37.02,42.58,MEDIUM,High average delay,Average delay is 180 days,False
+Bidyut Baran Mahato,JAMSHEDPUR,56.18,30.508474576271187,6.779661016949152,1160000,153,53.47,25.77,42.39,MEDIUM,High average delay,Utilization is 56.2%; Average delay is 153 days,False
+Shri Shantanu Thakur,BANGAON(SC),51.68,38.46153846153847,0.0,5761100,7,49.3,31.89,42.34,MEDIUM,Low utilization,"Utilization is 51.7%; Average project cost is ₹5,761,100",False
+JOBA MAJHI,SINGHBHUM(ST),64.84,10.526315789473683,21.052631578947366,4320000,69,54.6,23.93,42.33,MEDIUM,High cancellation ratio,Cancellation ratio is 21.1%,False
+Shri Chandra Prakash Choudhary,GIRIDIH,51.49,12.5,4.166666666666666,1307300,163,47.02,34.46,42.0,MEDIUM,High average delay,Utilization is 51.5%; Average delay is 163 days,False
+RABINDRA NARAYAN BEHERA,JAJPUR(SC),71.3,27.27272727272727,9.090909090909092,7986800,105,62.06,11.46,41.82,MEDIUM,High average project cost,"Average project cost is ₹7,986,800",False
+Giridhari Yadav,BANKA,94.91,47.368421052631575,5.263157894736842,7289900,72,52.26,25.91,41.72,MEDIUM,High average project cost,"Pending work ratio is 47.4%; Average project cost is ₹7,289,900",False
+G. KUMAR NAIK,RAICHUR(ST),71.83,35.0,10.0,5077600,128,65.55,5.91,41.69,MEDIUM,High average project cost,"Cancellation ratio is 10.0%; Average project cost is ₹5,077,600; Average delay is 128 days",False
+Sivanath Kesineni,VIJAYAWADA,95.94,10.714285714285714,10.714285714285714,4745000,135,48.27,31.81,41.69,MEDIUM,High average delay,"Cancellation ratio is 10.7%; Average project cost is ₹4,745,000; Average delay is 135 days",False
+KARTICK CHANDRA PAUL,RAIGANJ,73.82,16.666666666666664,0.0,7718600,149,49.87,29.27,41.63,MEDIUM,High average project cost,"Average project cost is ₹7,718,600; Average delay is 149 days",False
+Praveen Khandelwal,CHANDINI CHOWK,48.95,41.46341463414634,9.75609756097561,1591900,25,52.44,25.42,41.63,MEDIUM,Low utilization,Utilization is 49.0%; Pending work ratio is 41.5%; Cancellation ratio is 9.8%,False
+ESWARASAMY K,POLLACHI,83.47,38.88888888888889,11.11111111111111,7275600,87,62.28,10.3,41.49,MEDIUM,High average project cost,"Cancellation ratio is 11.1%; Average project cost is ₹7,275,600",False
+Arvind Dharmapuri,NIZAMABAD,47.62,10.344827586206897,3.4482758620689653,3795300,102,52.32,25.24,41.49,MEDIUM,Low utilization,Utilization is 47.6%,False
+SUDAMA PRASAD,ARRAH,89.52,4.0,16.0,4929300,81,44.72,36.4,41.39,MEDIUM,High cancellation ratio,"Cancellation ratio is 16.0%; Average project cost is ₹4,929,300",False
+MANOHAR LAL,KARNAL,49.94,13.79310344827586,0.0,2347100,155,48.33,30.88,41.35,MEDIUM,Low utilization,Utilization is 49.9%; Average delay is 155 days,False
+KARAN BHUSHAN SINGH,KAISERGANJ,64.03,16.666666666666664,12.5,3536500,135,61.18,11.48,41.3,MEDIUM,High cancellation ratio,Cancellation ratio is 12.5%; Average delay is 135 days,False
+AMRINDER SINGH RAJA WARRING,LUDHIANA,48.55,25.0,9.375,2167900,113,59.04,14.53,41.24,MEDIUM,Low utilization,Utilization is 48.5%; Cancellation ratio is 9.4%,False
+Maddila Gurumoorthy,TIRUPATI(SC),59.5,41.17647058823529,5.88235294117647,5754400,65,61.95,9.97,41.16,MEDIUM,High average project cost,"Utilization is 59.5%; Pending work ratio is 41.2%; Average project cost is ₹5,754,400",False
+MANNA LAL RAWAT,UDAIPUR(ST),62.55,46.34146341463415,4.878048780487805,1846300,158,59.19,14.04,41.13,MEDIUM,High average delay,Pending work ratio is 46.3%; Average delay is 158 days,False
+Om Birla,KOTA,60.84,41.66666666666667,0.0,7588100,16,49.96,27.86,41.12,MEDIUM,High average project cost,"Pending work ratio is 41.7%; Average project cost is ₹7,588,100",False
+BHUMARE SANDIPANRAO ASARAM,AURANGABAD_MH,70.71,50.0,0.0,6408700,91,56.51,17.8,41.03,MEDIUM,High pending-work ratio,"Pending work ratio is 50.0%; Average project cost is ₹6,408,700",False
+Mansukhbhai Dhanjibhai Vasava,BHARUCH,94.7,48.38709677419355,9.67741935483871,4175800,60,52.79,23.29,40.99,MEDIUM,High pending-work ratio,Pending work ratio is 48.4%; Cancellation ratio is 9.7%,False
+Shri Benny Behanan,CHALAKUDY,58.94,52.94117647058824,5.88235294117647,2512100,86,61.89,9.62,40.98,MEDIUM,High pending-work ratio,Utilization is 58.9%; Pending work ratio is 52.9%,False
+CHARANJIT SINGH CHANNI,JALANDHAR(SC),89.52,53.333333333333336,5.0,1956800,146,51.01,25.76,40.91,MEDIUM,High pending-work ratio,Pending work ratio is 53.3%; Average delay is 146 days,False
+Mitesh Rameshbhai Bakabhai Patel,ANAND,77.35,24.13793103448276,13.79310344827586,3727100,135,58.81,13.87,40.83,MEDIUM,High cancellation ratio,Cancellation ratio is 13.8%; Average delay is 135 days,False
+SHAMBHAVI,SAMASTIPUR(SC),55.13,45.614035087719294,1.7543859649122806,1207700,130,51.07,25.35,40.78,MEDIUM,High pending-work ratio,Utilization is 55.1%; Pending work ratio is 45.6%; Average delay is 130 days,False
+Anurag Sharma,JHANSI,95.97,45.45454545454545,4.545454545454546,5463200,115,52.9,22.43,40.71,MEDIUM,High average project cost,"Pending work ratio is 45.5%; Average project cost is ₹5,463,200",False
+Chandra Prakash Joshi,CHITTORGARH,65.04,47.82608695652174,8.695652173913043,3793700,14,56.18,17.41,40.67,MEDIUM,High pending-work ratio,Pending work ratio is 47.8%,False
+Pratap Chandra Sarangi,BALASORE,63.44,38.70967741935484,3.225806451612903,2689600,164,59.54,12.12,40.57,MEDIUM,High average delay,Average delay is 164 days,False
+Jitendra Singh,UDHAMPUR,53.47,24.074074074074076,5.555555555555555,1319300,156,51.91,23.56,40.57,MEDIUM,High average delay,Utilization is 53.5%; Average delay is 156 days,False
+Sanjay Haribhau Jadhav,PARBHANI,84.87,10.526315789473683,21.052631578947366,5785400,47,47.28,30.45,40.55,MEDIUM,High cancellation ratio,"Cancellation ratio is 21.1%; Average project cost is ₹5,785,400",False
+BISHNU PADA RAY,ANDAMAN AND NICOBAR ISLANDS,51.06,38.88888888888889,7.4074074074074066,1318300,109,56.76,16.12,40.5,MEDIUM,Low utilization,Utilization is 51.1%,False
+ISHA KHAN CHOUDHURY,MALDAHA DAKSHIN,92.57,48.27586206896552,6.896551724137931,1971200,147,51.23,24.34,40.47,MEDIUM,High pending-work ratio,Pending work ratio is 48.3%; Average delay is 147 days,False
+BACHHAV SHOBHA DINESH,DHULE,89.83,10.526315789473683,21.052631578947366,5841900,51,45.59,32.42,40.32,MEDIUM,High cancellation ratio,"Cancellation ratio is 21.1%; Average project cost is ₹5,841,900",False
+M. MALLESH BABU,KOLAR(SC),85.53,13.333333333333334,0.0,7922700,144,44.38,34.06,40.25,MEDIUM,High average project cost,"Average project cost is ₹7,922,700; Average delay is 144 days",False
+BHARATBHAI MANUBHAI SUTARIYA,AMRELI,72.49,42.5,10.0,2407300,127,60.81,9.34,40.22,MEDIUM,High pending-work ratio,Pending work ratio is 42.5%; Cancellation ratio is 10.0%; Average delay is 127 days,False
+K RADHAKRISHNAN,ALATHUR(SC),92.3,52.38095238095239,0.0,5473200,93,49.25,26.33,40.08,MEDIUM,High pending-work ratio,"Pending work ratio is 52.4%; Average project cost is ₹5,473,200",False
+MOHITE PATIL DHAIRYASHEEL RAJSINH,MADHA,46.83,30.76923076923077,3.8461538461538463,3512800,12,48.9,26.62,39.99,MEDIUM,Low utilization,Utilization is 46.8%,False
+PATEL UMESHBHAI BABUBHAI,DAMAN and DIU,94.77,52.27272727272727,2.272727272727273,5086600,25,42.1,36.81,39.98,MEDIUM,High pending-work ratio,"Pending work ratio is 52.3%; Average project cost is ₹5,086,600",False
+PARIMAL SUKLABAIDYA,SILCHAR,49.81,45.83333333333333,4.166666666666666,2839500,28,54.87,17.65,39.98,MEDIUM,Low utilization,Utilization is 49.8%; Pending work ratio is 45.8%,False
+Shri Amit Shah,GANDHINAGAR,81.12,43.75,6.25,7437200,78,58.66,11.92,39.96,MEDIUM,High average project cost,"Pending work ratio is 43.8%; Average project cost is ₹7,437,200",False
+Kinjarapu Ram Mohan Naidu,SRIKAKULAM,70.33,5.88235294117647,7.84313725490196,2071100,164,46.01,30.89,39.96,MEDIUM,High average delay,Average delay is 164 days,False
+DR.MALLU RAVI,NAGARKURNOOL(SC),90.31,35.0,10.0,2890600,150,56.03,15.74,39.91,MEDIUM,High average delay,Cancellation ratio is 10.0%; Average delay is 150 days,False
+ABHIJIT GANGOPADHYAY,TAMLUK,77.89,52.27272727272727,4.545454545454546,2171200,144,55.55,16.24,39.83,MEDIUM,High pending-work ratio,Pending work ratio is 52.3%; Average delay is 144 days,False
+ANITA SUBHADARSHINI,ASKA,73.16,31.818181818181817,18.181818181818183,4476200,49,56.03,15.54,39.83,MEDIUM,High cancellation ratio,"Cancellation ratio is 18.2%; Average project cost is ₹4,476,200",False
+LUMBARAM,JALORE,51.04,42.10526315789473,0.0,3340100,90,56.1,15.38,39.81,MEDIUM,Low utilization,Utilization is 51.0%; Pending work ratio is 42.1%,False
+Jai Prakash,HARDOI (SC),78.6,4.761904761904762,4.761904761904762,4938600,148,46.73,29.33,39.77,MEDIUM,High average delay,"Average project cost is ₹4,938,600; Average delay is 148 days",False
+Ganesan Selvam,KANCHEEPURAM(SC),93.38,52.94117647058824,3.92156862745098,3387500,112,51.73,21.8,39.76,MEDIUM,High pending-work ratio,Pending work ratio is 52.9%,False
+Smt Harsimrat Kaur Badal,BHATINDA,49.14,47.368421052631575,5.263157894736842,1375400,61,52.35,20.7,39.69,MEDIUM,Low utilization,Utilization is 49.1%; Pending work ratio is 47.4%,False
+KISHORI LAL,AMETHI,88.64,52.63157894736842,5.263157894736842,3578400,106,55.57,15.76,39.65,MEDIUM,High pending-work ratio,Pending work ratio is 52.6%,False
+NILESH DNYANDEV LANKE,AHMEDNAGAR,73.94,8.620689655172415,5.172413793103448,1608200,179,40.37,38.48,39.61,MEDIUM,High average delay,Average delay is 179 days,False
+DAMODAR AGARWAL,BHILWARA,75.68,55.172413793103445,5.172413793103448,1637600,0,38.51,41.07,39.53,MEDIUM,High pending-work ratio,Pending work ratio is 55.2%,False
+ATUL GARG,GHAZIABAD,61.4,31.25,0.0,5704900,124,55.59,15.44,39.53,MEDIUM,High average project cost,"Average project cost is ₹5,704,900; Average delay is 124 days",False
+DR. RAJESH MISHRA,SIDHI,63.23,8.571428571428571,11.428571428571429,4097900,104,55.9,14.92,39.51,MEDIUM,High cancellation ratio,Cancellation ratio is 11.4%,False
+Ashok Kumar Yadav,MADHUBANI,86.88,22.22222222222222,0.0,13221100,79,41.34,36.74,39.5,MEDIUM,High average project cost,"Average project cost is ₹13,221,100",False
+DR. MANSUKH MANDAVIYA,PORBANDAR,51.87,31.03448275862069,10.344827586206897,2406600,83,59.43,9.44,39.43,MEDIUM,Low utilization,Utilization is 51.9%; Cancellation ratio is 10.3%,False
+B K PARTHASARATHI,HINDUPUR,90.54,51.02040816326531,2.0408163265306123,2849300,143,50.81,22.31,39.41,MEDIUM,High pending-work ratio,Pending work ratio is 51.0%; Average delay is 143 days,False
+Smt S Jothimani,KARUR,73.98,53.333333333333336,3.333333333333333,1605700,129,50.51,22.57,39.33,MEDIUM,High pending-work ratio,Pending work ratio is 53.3%; Average delay is 129 days,False
+S Venkatesan,MADURAI,47.59,15.625,9.375,2125900,89,53.16,18.39,39.25,MEDIUM,Low utilization,Utilization is 47.6%; Cancellation ratio is 9.4%,False
+Anurag Singh Thakur,HAMIRPUR_HP,71.34,6.666666666666667,6.666666666666667,6266900,113,51.12,21.2,39.15,MEDIUM,High average project cost,"Average project cost is ₹6,266,900",False
+UTKARSH VERMA MADHUR,KHERI,58.49,50.0,2.083333333333333,1670600,125,53.66,17.3,39.12,MEDIUM,High pending-work ratio,Utilization is 58.5%; Pending work ratio is 50.0%; Average delay is 125 days,False
+BALYA MAMA SURESH GOPINATH MHATRE,BHIWANDI,84.51,45.0,5.0,5913500,110,58.18,10.15,38.97,MEDIUM,High average project cost,"Pending work ratio is 45.0%; Average project cost is ₹5,913,500",False
+Magunta Sreenivasulu Reddy,ONGOLE,89.59,35.714285714285715,3.571428571428571,3860300,167,52.3,18.94,38.96,MEDIUM,High average delay,Average delay is 167 days,False
+Ajay Bhatt,NAINITAL UDHAM SINGH NAG.,62.14,19.047619047619047,14.285714285714285,3950800,77,57.61,10.88,38.92,MEDIUM,High cancellation ratio,Cancellation ratio is 14.3%,False
+Vellalath Kochukrishnan Nair Sreekandan,PALAKKAD,64.29,16.666666666666664,16.666666666666664,3512800,71,54.41,15.54,38.86,MEDIUM,High cancellation ratio,Cancellation ratio is 16.7%,False
+DEVESH SHAKYA,ETAH,73.62,30.434782608695656,17.391304347826086,4109500,25,51.53,19.7,38.8,MEDIUM,High cancellation ratio,Cancellation ratio is 17.4%,False
+Shri  Dharambir Singh,BHIWANI MAHENDRAGARH,72.0,37.93103448275862,6.896551724137931,3255700,144,60.81,5.75,38.79,MEDIUM,High average delay,Average delay is 144 days,False
+Vijay Kumar Dubey,KUSHI NAGAR,55.87,17.647058823529413,5.88235294117647,4550000,117,58.42,9.28,38.76,MEDIUM,Low utilization,"Utilization is 55.9%; Average project cost is ₹4,550,000",False
+LOVELY ANAND,SHEOHAR,66.3,13.043478260869565,17.391304347826086,3570700,73,52.67,17.74,38.7,MEDIUM,High cancellation ratio,Cancellation ratio is 17.4%,False
+DEEPENDER SINGH HOODA,ROHTAK,66.35,33.33333333333333,9.523809523809524,4408500,112,63.49,1.37,38.64,MEDIUM,High cancellation ratio,"Cancellation ratio is 9.5%; Average project cost is ₹4,408,500",False
+Ms Mahua Moitra,KRISHNANAGAR,95.67,21.875,12.5,4361900,107,49.54,22.12,38.57,MEDIUM,High cancellation ratio,"Cancellation ratio is 12.5%; Average project cost is ₹4,361,900",False
+Shri Bhartruhari Mahtab,CUTTACK,60.72,12.5,6.25,4917700,117,55.75,12.78,38.56,MEDIUM,High average project cost,"Average project cost is ₹4,917,700",False
+Kirti Vardhan Singh,GONDA,94.24,50.0,0.0,4945100,96,46.8,25.87,38.43,MEDIUM,High pending-work ratio,"Pending work ratio is 50.0%; Average project cost is ₹4,945,100",False
+TARIQ ANWAR,KATIHAR,53.95,28.57142857142857,7.142857142857142,4786300,29,55.22,12.91,38.3,MEDIUM,Low utilization,"Utilization is 54.0%; Average project cost is ₹4,786,300",False
+PRABHAKAR REDDY VEMIREDDY,NELLORE(SC),85.59,21.73913043478261,17.391304347826086,4508200,26,45.81,26.81,38.21,MEDIUM,High cancellation ratio,"Cancellation ratio is 17.4%; Average project cost is ₹4,508,200",False
+PRADEEP PUROHIT,BARGARH,94.56,13.043478260869565,13.043478260869565,5921400,35,41.19,33.62,38.16,MEDIUM,High average project cost,"Cancellation ratio is 13.0%; Average project cost is ₹5,921,400",False
+NARAYAN DAS AHIRWAR,JALAUN(SC),50.99,47.91666666666667,4.166666666666666,1322500,61,49.89,20.53,38.15,MEDIUM,Low utilization,Utilization is 51.0%; Pending work ratio is 47.9%,False
+BALABHADRA MAJHI,NABARANGPUR(ST),48.44,5.660377358490567,1.8867924528301887,1263500,116,37.06,39.79,38.15,MEDIUM,Low utilization,Utilization is 48.4%,False
+Daggubati Purandeshwari,RAJAHMUNDRY,46.36,23.07692307692308,3.8461538461538463,1139400,50,39.06,36.46,38.02,MEDIUM,Low utilization,Utilization is 46.4%,False
+RAHUL GANDHI,RAE BARELI,52.83,51.61290322580645,0.0,2138200,39,47.1,24.39,38.02,MEDIUM,High pending-work ratio,Utilization is 52.8%; Pending work ratio is 51.6%,False
+H.D. KUMARASWAMY,MANDYA,54.85,25.806451612903224,6.451612903225806,2185200,137,56.49,9.93,37.87,MEDIUM,Low utilization,Utilization is 54.9%; Average delay is 137 days,False
+PUSHPENDRA SAROJ,KAUSHAMBI(SC),55.5,27.027027027027028,10.81081081081081,1942700,107,55.51,11.34,37.84,MEDIUM,Low utilization,Utilization is 55.5%; Cancellation ratio is 10.8%,False
+Kamaljeet Sehrawat,WEST DELHI,88.46,27.77777777777778,5.555555555555555,3516800,167,51.8,16.7,37.76,MEDIUM,High average delay,Average delay is 167 days,False
+TANGELLA UDAY SRINIVAS,KAKINADA,79.75,8.0,8.0,5364400,127,50.62,18.48,37.76,MEDIUM,High average project cost,"Average project cost is ₹5,364,400; Average delay is 127 days",False
+MOHIBBULLAH,RAMPUR,66.98,51.11111111111111,8.88888888888889,2093000,20,49.98,19.39,37.74,MEDIUM,High pending-work ratio,Pending work ratio is 51.1%,False
+Shri Gurjeet Singh Aujla,AMRITSAR,80.96,54.71698113207547,5.660377358490567,2162300,92,51.82,16.54,37.71,MEDIUM,High pending-work ratio,Pending work ratio is 54.7%,False
+ABDUL RASHID SHEIKH,BARAMULLAH,68.28,33.33333333333333,4.761904761904762,2152400,169,53.88,13.34,37.66,MEDIUM,High average delay,Average delay is 169 days,False
+ADV K FRANCIS GEORGE,KOTTAYAM,88.89,45.0,5.0,6945300,40,49.26,20.24,37.65,MEDIUM,High average project cost,"Pending work ratio is 45.0%; Average project cost is ₹6,945,300",False
+Shri PP Chaudhary,PALI,57.29,31.91489361702128,6.382978723404255,1510900,148,54.1,12.86,37.6,MEDIUM,High average delay,Utilization is 57.3%; Average delay is 148 days,False
+LALJI VERMA,AMBEDKAR NAGAR,75.97,40.0,12.0,3917900,62,57.24,7.94,37.52,MEDIUM,High cancellation ratio,Cancellation ratio is 12.0%,False
+GURMEET SINGH MEET HAYER,SANGRUR,51.53,36.36363636363637,0.0,2011400,132,51.51,16.47,37.49,MEDIUM,Low utilization,Utilization is 51.5%; Average delay is 132 days,False
+ANOOP PRADHAN BALMIKI,HATHRAS (SC),79.99,45.45454545454545,9.090909090909092,4766400,59,57.22,7.85,37.47,MEDIUM,High pending-work ratio,"Pending work ratio is 45.5%; Average project cost is ₹4,766,400",False
+SHOBHANABEN MAHENDRASINH BARAIYA,SABARKANTHA,55.08,21.428571428571427,2.380952380952381,1791900,163,48.27,21.24,37.46,MEDIUM,High average delay,Utilization is 55.1%; Average delay is 163 days,False
+RAJ BHUSHAN CHOUDHARY,MUZAFFARPUR,74.0,5.263157894736842,10.526315789473683,4961900,39,43.16,28.85,37.44,MEDIUM,High average project cost,"Cancellation ratio is 10.5%; Average project cost is ₹4,961,900",False
+Saptagiri Sankar Ulaka,KORAPUT(ST),79.26,44.44444444444444,0.0,7594700,76,50.51,17.77,37.41,MEDIUM,High average project cost,"Pending work ratio is 44.4%; Average project cost is ₹7,594,700",False
+Bhagirath Chaudhary,AJMER,52.49,11.11111111111111,11.11111111111111,2057400,67,47.85,21.49,37.31,MEDIUM,Low utilization,Utilization is 52.5%; Cancellation ratio is 11.1%,False
+Shri NK Premachandran,KOLLAM,65.0,52.63157894736842,5.263157894736842,2647000,56,55.42,9.89,37.21,MEDIUM,High pending-work ratio,Pending work ratio is 52.6%,False
+KALYAN VAIJINATHRAO KALE,JALNA,46.35,8.51063829787234,6.382978723404255,1410500,62,40.2,32.68,37.19,MEDIUM,Low utilization,Utilization is 46.4%,False
+SUKANTA KUMAR PANIGRAHI,KANDHAMAL,58.67,27.027027027027028,0.0,2548300,153,50.4,17.37,37.19,MEDIUM,High average delay,Utilization is 58.7%; Average delay is 153 days,False
+Sunil Kumar,VALMIKI NAGAR,60.11,13.79310344827586,13.79310344827586,2509400,21,44.8,25.69,37.16,MEDIUM,High cancellation ratio,Cancellation ratio is 13.8%,False
+ALFRED KANNGAM S ARTHUR,OUTER MANIPUR(ST),64.89,38.46153846153847,0.0,6859200,50,50.39,17.28,37.15,MEDIUM,High average project cost,"Average project cost is ₹6,859,200",False
+CHHATRAPATI SHAHU SHAHAJI,KOLHAPUR,78.46,32.35294117647059,11.76470588235294,2926700,122,57.67,6.34,37.14,MEDIUM,High cancellation ratio,Cancellation ratio is 11.8%; Average delay is 122 days,False
+Adv Adoor Prakash,ATTINGAL,65.91,44.82758620689656,10.344827586206897,2830200,24,54.54,10.83,37.06,MEDIUM,High pending-work ratio,Pending work ratio is 44.8%; Cancellation ratio is 10.3%,False
+AVIMANYU SETHI,BHADRAK(SC),83.19,26.53061224489796,2.0408163265306123,2452300,178,45.33,24.52,37.01,MEDIUM,High average delay,Average delay is 178 days,False
+ANGOMCHA BIMOL AKOIJAM,INNER MANIPUR,50.7,25.0,1.7857142857142856,1232100,130,44.67,25.49,37.0,MEDIUM,Low utilization,Utilization is 50.7%; Average delay is 130 days,False
+Saumitra khan,BISHNUPUR(SC),86.42,53.333333333333336,2.2222222222222223,2587500,117,50.33,16.94,36.97,MEDIUM,High pending-work ratio,Pending work ratio is 53.3%,False
+PHANI BHUSAN CHOUDHURY,BARPETA,93.11,21.428571428571427,7.142857142857142,2094200,172,43.88,26.36,36.87,MEDIUM,High average delay,Average delay is 172 days,False
+Santosh Pandey,RAJNANDGAON,78.79,40.0,10.0,3782800,7,48.03,19.88,36.77,MEDIUM,High cancellation ratio,Cancellation ratio is 10.0%,False
+BIJULI KALITA MEDHI,GUWAHATI,55.63,16.129032258064516,12.903225806451612,2214900,70,50.5,16.07,36.73,MEDIUM,High cancellation ratio,Utilization is 55.6%; Cancellation ratio is 12.9%,False
+Shri B Y Raghavendra,SHIMOGA,52.52,18.96551724137931,5.172413793103448,1128100,108,43.9,25.96,36.72,MEDIUM,Low utilization,Utilization is 52.5%,False
+T Sumathy (A) Thamizhachi Thangapandian,CHENNAI SOUTH,87.54,20.0,10.0,4033000,133,52.85,12.35,36.65,MEDIUM,High average delay,Cancellation ratio is 10.0%; Average delay is 133 days,False
+RADHE SHYAM RATHIYA,RAIGARH(ST),47.5,13.79310344827586,6.896551724137931,2240400,67,48.46,18.87,36.62,MEDIUM,Low utilization,Utilization is 47.5%,False
+JAI PARKASH,HISAR,68.55,19.444444444444446,11.11111111111111,2463200,125,54.3,10.01,36.58,MEDIUM,High cancellation ratio,Cancellation ratio is 11.1%; Average delay is 125 days,False
+DR KALGE SHIVAJI BANDAPPA,LATUR(SC),92.71,7.142857142857142,14.285714285714285,4547200,25,36.53,36.66,36.58,MEDIUM,High cancellation ratio,"Cancellation ratio is 14.3%; Average project cost is ₹4,547,200",False
+NEERAJ MAURYA,AONLA,91.7,32.0,8.0,5307300,125,55.07,8.82,36.57,MEDIUM,High average project cost,"Average project cost is ₹5,307,300; Average delay is 125 days",False
+Rajeshbhai Naranbhai Chudasama,JUNAGADH,93.39,11.76470588235294,0.0,2350200,177,32.63,42.45,36.56,MEDIUM,High average delay,Average delay is 177 days,False
+SHIVRAJ SINGH CHOUHAN,VIDISHA,93.76,48.0,4.0,5430500,56,47.54,19.99,36.52,MEDIUM,High pending-work ratio,"Pending work ratio is 48.0%; Average project cost is ₹5,430,500",False
+VISHWESHWAR HEGDE KAGERI,UTTARA KANNADA,83.1,47.368421052631575,5.263157894736842,3164200,117,55.68,7.77,36.52,MEDIUM,High pending-work ratio,Pending work ratio is 47.4%,False
+V. SOMANNA,TUMKUR,67.06,18.91891891891892,0.0,2652800,164,45.53,22.86,36.46,MEDIUM,High average delay,Average delay is 164 days,False
+Kripanath Mallah,KARIMGANJ (SC),89.79,23.809523809523807,9.523809523809524,5187400,127,53.97,10.16,36.45,MEDIUM,High average project cost,"Cancellation ratio is 9.5%; Average project cost is ₹5,187,400; Average delay is 127 days",False
+Prof SP Singh Baghel,AGRA(SC),53.03,37.2093023255814,9.30232558139535,1710100,15,47.5,19.84,36.44,MEDIUM,Low utilization,Utilization is 53.0%,False
+RAMBHUAL NISHAD,SULTANPUR,67.17,38.59649122807017,5.263157894736842,1659300,153,53.2,11.3,36.44,MEDIUM,High average delay,Average delay is 153 days,False
+Sunil Dattatray Tatkare,RAIGAD,73.41,9.75609756097561,0.0,2472200,172,39.54,31.63,36.38,MEDIUM,High average delay,Average delay is 172 days,False
+Dushyant Singh,JHALAWAR-BARAN,50.88,42.85714285714285,4.081632653061225,1372100,92,51.78,13.05,36.29,MEDIUM,Low utilization,Utilization is 50.9%; Pending work ratio is 42.9%,False
+Shri Kumbakudi Sudhakaran,KANNUR,57.28,28.57142857142857,9.523809523809524,3289400,22,51.36,13.26,36.12,MEDIUM,Low utilization,Utilization is 57.3%; Cancellation ratio is 9.5%,False
+K. RAJASHEKAR BASAVARAJ HITNAL,KOPPAL,47.68,34.48275862068966,3.4482758620689653,2381600,70,51.95,12.31,36.09,MEDIUM,Low utilization,Utilization is 47.7%,False
+BAIJAYANT PANDA,KENDRAPARA,52.83,30.35714285714285,3.571428571428571,1247000,123,47.63,18.75,36.08,MEDIUM,Low utilization,Utilization is 52.8%; Average delay is 123 days,False
+Adv Dean Kuriakose,IDUKKI,56.16,9.523809523809524,0.0,1675900,159,39.34,31.16,36.07,MEDIUM,High average delay,Utilization is 56.2%; Average delay is 159 days,False
+Prof Sougata Ray,DUM DUM,46.79,35.0,2.5,1460600,67,45.18,22.24,36.0,MEDIUM,Low utilization,Utilization is 46.8%,False
+K Subbarayan,TIRUPPUR,75.47,42.0,2.0,1838300,166,48.51,17.05,35.93,MEDIUM,High average delay,Pending work ratio is 42.0%; Average delay is 166 days,False
+VINOD KUMAR BIND,BHADOHI,46.97,9.090909090909092,0.0,2755600,31,35.75,36.16,35.91,MEDIUM,Low utilization,Utilization is 47.0%,False
+IMRAN MASOOD,SAHARANPUR,67.01,48.07692307692308,7.6923076923076925,1687700,91,53.58,9.35,35.89,MEDIUM,High pending-work ratio,Pending work ratio is 48.1%,False
+K. C VENUGOPAL,ALAPPUZHA,79.12,45.0,5.0,4913000,98,56.89,4.25,35.83,MEDIUM,High pending-work ratio,"Pending work ratio is 45.0%; Average project cost is ₹4,913,000",False
+DULU MAHATO,DHANBAD,92.41,8.47457627118644,6.779661016949152,2120800,168,38.44,31.89,35.82,MEDIUM,High average delay,Average delay is 168 days,False
+SHREYAS. M. PATEL,HASSAN,59.86,12.5,0.0,3313200,132,45.55,21.19,35.81,MEDIUM,High average delay,Average delay is 132 days,False
+MADHAVANENI RAGHUNANDAN RAO,MEDAK,60.49,28.57142857142857,0.0,6342400,13,42.76,25.26,35.76,MEDIUM,High average project cost,"Average project cost is ₹6,342,400",False
+CHANDRA SHEKHAR,NAGINA(SC),89.63,46.66666666666666,0.0,4136700,2,34.56,37.47,35.72,MEDIUM,High pending-work ratio,Pending work ratio is 46.7%,False
+SMITA UDAY WAGH,JALGAON,90.38,48.837209302325576,6.976744186046512,2575200,94,50.92,12.86,35.7,MEDIUM,High pending-work ratio,Pending work ratio is 48.8%,False
+TANUJ PUNIA,BARABANKI(SC),54.79,34.285714285714285,0.0,2017200,136,49.56,14.88,35.69,MEDIUM,Low utilization,Utilization is 54.8%; Average delay is 136 days,False
+ANANTA NAYAK,KEONJHAR(ST),58.8,16.666666666666664,5.555555555555555,4674300,100,54.93,6.78,35.67,MEDIUM,High average project cost,"Utilization is 58.8%; Average project cost is ₹4,674,300",False
+Faggan Singh Kulaste,MANDLA(ST),86.81,12.0,12.0,5180800,93,49.34,15.05,35.62,MEDIUM,High cancellation ratio,"Cancellation ratio is 12.0%; Average project cost is ₹5,180,800",False
+EATALA RAJENDER,MALKAJGIRI,88.47,33.33333333333333,6.25,5682400,120,54.63,6.99,35.57,MEDIUM,High average project cost,"Average project cost is ₹5,682,400; Average delay is 120 days",False
+ASHISH DUBEY,JABALPUR,85.16,51.72413793103448,3.4482758620689653,4032200,52,48.46,16.24,35.57,MEDIUM,High pending-work ratio,Pending work ratio is 51.7%,False
+RAJA RAM SINGH,KARAKAT,72.4,51.61290322580645,3.225806451612903,3112700,84,53.38,8.76,35.53,MEDIUM,High pending-work ratio,Pending work ratio is 51.6%,False
+Smt Aparajita Sarangi,BHUBANESWAR,85.36,10.526315789473683,5.263157894736842,6495200,119,47.33,17.78,35.51,MEDIUM,High average project cost,"Average project cost is ₹6,495,200",False
+AASHTIKAR PATIL NAGESH BAPURAO,HINGOLI,69.51,25.71428571428571,11.428571428571429,3195300,111,57.11,2.9,35.43,MEDIUM,High cancellation ratio,Cancellation ratio is 11.4%,False
+CHANDUBHAI CHHAGANBHAI SHIHORA,SURENDRANAGAR,94.76,21.428571428571427,0.0,8211500,85,37.33,32.58,35.43,MEDIUM,High average project cost,"Average project cost is ₹8,211,500",False
+PATHAN YUSUF,BAHARAMPUR,87.95,52.38095238095239,2.380952380952381,2579500,113,48.6,15.62,35.41,MEDIUM,High pending-work ratio,Pending work ratio is 52.4%,False
+S. Jagathrakshakan,ARAKKONAM,95.05,32.20338983050847,6.779661016949152,2479700,144,46.56,18.65,35.4,MEDIUM,High average delay,Average delay is 144 days,False
+JUNE MALIAH,MEDINIPUR,73.7,52.77777777777778,2.7777777777777777,2971600,71,51.18,11.66,35.37,MEDIUM,High pending-work ratio,Pending work ratio is 52.8%,False
+Radha Mohan Singh,PURVI CHAMPARAN,94.84,29.03225806451613,12.903225806451612,4400800,42,44.76,21.11,35.3,MEDIUM,High cancellation ratio,"Cancellation ratio is 12.9%; Average project cost is ₹4,400,800",False
+Shri Karti P Chidambaram,SIVAGANGA,86.85,30.76923076923077,3.8461538461538463,4967600,146,52.06,10.1,35.28,MEDIUM,High average delay,"Average project cost is ₹4,967,600; Average delay is 146 days",False
+AFZAL ANSARI,GHAZIPUR,53.55,44.642857142857146,5.357142857142857,1817500,11,45.86,19.37,35.26,MEDIUM,Low utilization,Utilization is 53.5%; Pending work ratio is 44.6%,False
+RUDRA NARAYAN PANY,DHENKANAL,56.63,17.647058823529413,11.76470588235294,2163700,33,45.53,19.75,35.22,MEDIUM,High cancellation ratio,Utilization is 56.6%; Cancellation ratio is 11.8%,False
+Smt Dimple Yadav,MAINPURI,68.51,41.66666666666667,4.166666666666666,5234800,43,52.92,8.64,35.21,MEDIUM,High average project cost,"Pending work ratio is 41.7%; Average project cost is ₹5,234,800",False
+Andimuthu Raja,NILGIRIS(SC),90.13,50.0,4.0,2413600,5,35.29,34.99,35.17,MEDIUM,High pending-work ratio,Pending work ratio is 50.0%,False
+E. TUKARAM,BELLARY(ST),76.6,30.434782608695656,13.043478260869565,4434100,25,50.04,12.85,35.16,MEDIUM,High cancellation ratio,"Cancellation ratio is 13.0%; Average project cost is ₹4,434,100",False
+ANITA NAGARSINGH CHOUHAN,RATLAM(ST),66.6,43.90243902439025,9.75609756097561,2172400,51,52.98,8.41,35.15,MEDIUM,High pending-work ratio,Pending work ratio is 43.9%; Cancellation ratio is 9.8%,False
+Ramesh Chandappa Jigajinagi,BIJAPUR(SC),81.82,44.82758620689656,1.7241379310344829,3230500,130,51.38,10.76,35.13,MEDIUM,High pending-work ratio,Pending work ratio is 44.8%; Average delay is 130 days,False
+SHOBHA KARANDLAJE,BANGALORE NORTH,52.88,32.142857142857146,7.142857142857142,2437000,76,55.72,4.11,35.08,MEDIUM,Low utilization,Utilization is 52.9%,False
+BASTIPATI NAGARAJU PANCHALINGALA,KURNOOL,53.57,43.39622641509434,1.8867924528301887,1338000,92,47.43,16.5,35.06,MEDIUM,Low utilization,Utilization is 53.6%; Pending work ratio is 43.4%,False
+ARUN GOVIL,MEERUT,94.81,8.571428571428571,11.428571428571429,3930000,76,39.36,28.52,35.02,MEDIUM,High cancellation ratio,Cancellation ratio is 11.4%,False
+JYOTIRADITYA M. SCINDIA,GUNA,83.53,48.27586206896552,6.896551724137931,3509100,32,49.28,13.57,35.0,MEDIUM,High pending-work ratio,Pending work ratio is 48.3%,False
+KALIPADA SAREN,JHARGRAM(ST),79.7,17.073170731707318,7.317073170731707,2636000,156,49.58,12.99,34.94,MEDIUM,High average delay,Average delay is 156 days,False
+SHRIMANT CHH UDAYANRAJE PRATAPSINHAMAHARAJ BHONSLE,SATARA,92.43,41.37931034482759,3.4482758620689653,4240600,125,50.55,11.51,34.93,MEDIUM,High average delay,Pending work ratio is 41.4%; Average delay is 125 days,False
+BASAVARAJ BOMMAI,HAVERI,86.98,18.867924528301888,7.547169811320755,2032000,160,44.28,20.88,34.92,MEDIUM,High average delay,Average delay is 160 days,False
+Pradeep Kumar Singh,ARARIA,90.85,19.047619047619047,4.761904761904762,6037900,129,47.33,16.13,34.85,MEDIUM,High average project cost,"Average project cost is ₹6,037,900; Average delay is 129 days",False
+Shri Jual Oram,SUNDARGARH (ST),83.15,26.31578947368421,5.263157894736842,6500500,115,52.92,7.69,34.83,MEDIUM,High average project cost,"Average project cost is ₹6,500,500",False
+Dr Jayanta Kumar Roy,JALPAIGURI(SC),69.28,8.333333333333332,1.6666666666666667,1530300,172,35.9,33.23,34.83,MEDIUM,High average delay,Average delay is 172 days,False
+KULDEEP INDORA,GANGANAGAR(SC),73.78,53.57142857142857,5.357142857142857,1835100,47,45.88,17.92,34.7,MEDIUM,High pending-work ratio,Pending work ratio is 53.6%,False
+Shri Deepak (Dev) Adhikari,GHATAL,73.06,50.0,2.941176470588235,3803200,70,52.24,8.32,34.67,MEDIUM,High pending-work ratio,Pending work ratio is 50.0%,False
+Durga Das Uikey,BETUL(ST),50.48,5.555555555555555,5.555555555555555,1361700,46,34.23,35.27,34.65,MEDIUM,Low utilization,Utilization is 50.5%,False
+Jagannath Sarkar,RANAGHAT(SC),68.0,25.925925925925924,11.11111111111111,3374600,95,56.54,1.77,34.63,MEDIUM,High cancellation ratio,Cancellation ratio is 11.1%,False
+RAJESH VERMA,KHAGARIA,89.07,19.230769230769237,7.6923076923076925,2179100,159,44.94,19.08,34.6,MEDIUM,High average delay,Average delay is 159 days,False
+TOKHAN SAHU,BILASPUR,86.54,9.67741935483871,6.451612903225806,3883000,142,45.77,17.82,34.59,MEDIUM,High average delay,Average delay is 142 days,False
+Bhola Singh,BULANDSHAHR(SC),83.37,46.93877551020408,8.16326530612245,2412000,76,51.12,9.61,34.52,MEDIUM,High pending-work ratio,Pending work ratio is 46.9%,False
+Prataprao Jadhav,BULDHANA,64.97,52.5,0.0,2216400,9,39.98,26.34,34.52,MEDIUM,High pending-work ratio,Pending work ratio is 52.5%,False
+Vijay Baghel,DURG,87.59,15.384615384615383,0.0,9681900,72,36.54,31.43,34.5,MEDIUM,High average project cost,"Average project cost is ₹9,681,900",False
+Shri Sudheer Gupta,MANDSOUR,67.38,34.285714285714285,2.857142857142857,2516700,148,52.94,6.77,34.47,MEDIUM,High average delay,Average delay is 148 days,False
+NIMUBEN JAYANTIBHAI BAMBHANIYA,BHAVNAGAR,65.26,50.0,6.8181818181818175,1972200,49,50.96,9.72,34.46,MEDIUM,High pending-work ratio,Pending work ratio is 50.0%,False
+Rao Rajendra Singh,JAIPUR RURAL,70.38,40.42553191489361,6.382978723404255,2096300,129,54.43,4.42,34.43,MEDIUM,High average delay,Average delay is 129 days,False
+Jaswantsinh Sumanbhai Bhabhor,DAHOD(ST),62.63,31.57894736842105,5.263157894736842,4200600,5,46.16,16.7,34.38,MEDIUM,High average project cost,No single parameter shows an extremely high anomaly signal,False
+ANAND BHADAURIYA,DHAURAHRA,52.04,15.0,5.0,3468600,19,43.27,20.77,34.27,MEDIUM,Low utilization,Utilization is 52.0%,False
+BHASKAR MURLIDHAR BHAGARE,DINDORI(ST),65.12,41.02564102564102,10.256410256410255,2363300,13,49.69,11.12,34.26,MEDIUM,High cancellation ratio,Pending work ratio is 41.0%; Cancellation ratio is 10.3%,False
+MALAIYARASAN D,KALLAKURICHI,64.21,13.333333333333334,0.0,6932300,32,38.92,27.1,34.19,MEDIUM,High average project cost,"Average project cost is ₹6,932,300",False
+Bansuri Swaraj,NEW DELHI,46.78,31.428571428571427,0.0,1969500,7,36.01,31.31,34.13,MEDIUM,Low utilization,Utilization is 46.8%,False
+SELJA,SIRSA(SC),68.45,50.0,5.263157894736842,2231000,81,53.31,5.33,34.12,MEDIUM,High pending-work ratio,Pending work ratio is 50.0%,False
+SURENDRA PRASAD YADAV,JAHANABAD,53.66,41.37931034482759,3.4482758620689653,2525700,71,53.58,4.86,34.09,MEDIUM,Low utilization,Utilization is 53.7%; Pending work ratio is 41.4%,False
+Pradyut Bordoloi,NOWGONG,80.95,48.0,0.0,2827300,104,46.84,14.95,34.08,MEDIUM,High pending-work ratio,Pending work ratio is 48.0%,False
+Shrikant Eknath Shinde,KALYAN,83.92,37.735849056603776,7.547169811320755,2159900,136,51.47,7.96,34.07,MEDIUM,High average delay,Average delay is 136 days,False
+Indra Hang Subba,SIKKIM,77.29,41.37931034482759,3.4482758620689653,3625800,120,53.79,4.21,33.96,MEDIUM,High pending-work ratio,Pending work ratio is 41.4%; Average delay is 120 days,False
+Harsh Malhotra,EAST DELHI,63.29,53.191489361702125,0.0,1698600,18,38.51,26.95,33.89,MEDIUM,High pending-work ratio,Pending work ratio is 53.2%,False
+MALVIKA DEVI,KALAHANDI,76.55,42.85714285714285,8.571428571428571,2996400,38,50.39,9.0,33.83,MEDIUM,High pending-work ratio,Pending work ratio is 42.9%,False
+Sasikanth Senthil,TIRUVALLUR(SC),63.92,30.55555555555556,11.11111111111111,2765700,45,52.26,6.04,33.77,MEDIUM,High cancellation ratio,Cancellation ratio is 11.1%,False
+MURASOLI S,THANJAVUR,91.05,38.775510204081634,8.16326530612245,2286100,120,49.38,10.34,33.76,MEDIUM,High average delay,Average delay is 120 days,False
+ADV GOWAAL KAGADA PADAVI,NANDURBAR(ST),86.62,27.58620689655172,10.344827586206897,4341200,102,53.47,4.06,33.71,MEDIUM,High cancellation ratio,Cancellation ratio is 10.3%,False
+JASHUBHAI BHILUBHAI RATHVA,CHHOTA UDAIPUR(ST),61.36,47.16981132075472,3.7735849056603774,1653100,92,49.89,9.17,33.6,MEDIUM,High pending-work ratio,Pending work ratio is 47.2%,False
+BIBHU PRASAD TARAI,JAGATSINGHPUR(SC),63.76,52.17391304347826,0.0,1807600,66,43.95,18.08,33.6,MEDIUM,High pending-work ratio,Pending work ratio is 52.2%,False
+Alok Kumar Suman,GOPALGANJ (SC),95.93,44.82758620689656,0.0,4555500,26,34.83,31.71,33.58,MEDIUM,High pending-work ratio,"Pending work ratio is 44.8%; Average project cost is ₹4,555,500",False
+BAG MITALI,ARAMBAG(SC),49.9,32.142857142857146,3.571428571428571,2493600,64,50.48,8.11,33.53,MEDIUM,Low utilization,Utilization is 49.9%,False
+DR C N MANJUNATH,BANGALORE RURAL,53.77,41.17647058823529,1.96078431372549,1289600,37,39.83,24.05,33.52,MEDIUM,Low utilization,Utilization is 53.8%; Pending work ratio is 41.2%,False
+MANISH TEWARI,CHANDIGARH,52.12,46.93877551020408,0.0,1782200,16,40.29,23.27,33.48,MEDIUM,Low utilization,Utilization is 52.1%; Pending work ratio is 46.9%,False
+Shri Janardan Singh Sigriwal,MAHARAJGANJ_BR,84.89,44.0,2.0,2403100,139,47.76,12.05,33.48,MEDIUM,High average delay,Pending work ratio is 44.0%; Average delay is 139 days,False
+AZAD KIRTI JHA,BARDHAMAN-DURGAPUR,70.05,16.666666666666664,0.0,4167500,137,45.46,15.24,33.37,MEDIUM,High average delay,Average delay is 137 days,False
+THARANIVENTHAN M S,ARANI,91.58,44.44444444444444,5.555555555555555,4213100,37,44.8,16.17,33.35,MEDIUM,High pending-work ratio,Pending work ratio is 44.4%,False
+Thalikkottai Rajuthevar Baalu,SRIPERUMBUDUR,86.41,30.0,10.0,4940200,81,52.78,3.99,33.26,MEDIUM,High average project cost,"Cancellation ratio is 10.0%; Average project cost is ₹4,940,200",False
+CHIRAG PASWAN,HAJIPUR(SC),73.89,41.17647058823529,8.823529411764707,3110200,39,51.03,6.29,33.13,MEDIUM,High pending-work ratio,Pending work ratio is 41.2%,False
+Dr Shashi Tharoor,THIRUVANANTHAPURAM,54.97,47.61904761904761,2.380952380952381,1838000,64,48.14,10.57,33.11,MEDIUM,High pending-work ratio,Utilization is 55.0%; Pending work ratio is 47.6%,False
+VARUN CHAUDHRY,AMBALA (SC),84.36,23.728813559322035,6.779661016949152,3010500,139,49.69,8.05,33.03,MEDIUM,High average delay,Average delay is 139 days,False
+Shri Rajmohan Unnithan,KASARAGOD,83.34,10.0,6.666666666666667,1845100,153,39.61,23.1,33.01,MEDIUM,High average delay,Average delay is 153 days,False
+AKSHAYA YADAV,FIROZABAD,50.9,30.508474576271187,5.084745762711865,1232500,14,37.56,26.08,32.97,MEDIUM,Low utilization,Utilization is 50.9%,False
+SELVARAJ V,NAGAPATTINAM(SC),83.01,6.25,0.0,6915100,15,27.08,41.66,32.91,MEDIUM,High average project cost,"Average project cost is ₹6,915,100",False
+SURESH GOPI,THRISSUR,54.95,27.906976744186046,9.30232558139535,1607400,76,49.43,8.0,32.86,MEDIUM,Low utilization,Utilization is 55.0%,False
+SALENG A SANGMA,TURA,69.25,38.70967741935484,9.67741935483871,2837800,29,51.14,5.31,32.81,MEDIUM,High cancellation ratio,Cancellation ratio is 9.7%,False
+Jyotsna Charandas Mahant,KORBA,58.13,42.85714285714285,6.122448979591836,1661900,55,48.58,9.02,32.76,MEDIUM,High pending-work ratio,Utilization is 58.1%; Pending work ratio is 42.9%,False
+Shri Jyotirmay Singh Mahato,PURULIA,67.86,17.391304347826086,8.695652173913043,3898400,98,53.24,1.69,32.62,MEDIUM,High cancellation ratio,No single parameter shows an extremely high anomaly signal,False
+JOYANTA BASUMATARY,KOKRAJHAR (ST),55.94,40.54054054054054,2.702702702702702,1954800,99,50.53,5.72,32.61,MEDIUM,Low utilization,Utilization is 55.9%,False
+Rajiv Ranjan (Lalan) Singh,MUNGER,49.62,25.0,5.555555555555555,1981200,76,48.46,8.8,32.6,MEDIUM,Low utilization,Utilization is 49.6%,False
+Dr Sukanta Majumdar,BALURGHAT,79.66,39.39393939393939,0.0,3478400,129,48.38,8.89,32.58,MEDIUM,High average delay,Average delay is 129 days,False
+RAKESH RATHOR,SITAPUR,84.31,27.77777777777778,8.333333333333332,2867500,1,36.97,25.83,32.51,MEDIUM,High cancellation ratio,No single parameter shows an extremely high anomaly signal,False
+BUNTY VIVEK SAHU,CHHINDWARA,53.94,13.333333333333334,6.666666666666667,1259600,68,39.15,22.16,32.35,MEDIUM,Low utilization,Utilization is 53.9%,False
+PRANITI SUSHILKUMAR SHINDE,SOLAPUR(SC),68.28,34.78260869565217,0.0,4056400,113,50.11,5.6,32.31,MEDIUM,High average project cost,No single parameter shows an extremely high anomaly signal,False
+NARESH GANPAT MHASKE,THANE,52.94,32.69230769230769,5.769230769230769,1281000,23,40.4,19.61,32.08,MEDIUM,Low utilization,Utilization is 52.9%,False
+SUDHA R,MAYILADUTHURAI,90.38,41.46341463414634,4.878048780487805,2863500,118,48.69,7.14,32.07,MEDIUM,High pending-work ratio,Pending work ratio is 41.5%,False
+CHAMALA KIRAN KUMAR REDDY,BHONGIR,78.33,10.638297872340424,8.51063829787234,2387300,127,44.74,12.99,32.04,MEDIUM,High average delay,Average delay is 127 days,False
+Mohamed Haneefa,LADAKH,66.88,12.903225806451612,0.0,3205000,129,42.19,16.7,31.99,MEDIUM,High average delay,Average delay is 129 days,False
+AWADHESH PRASAD,FAIZABAD,85.87,46.34146341463415,0.0,2924000,7,33.46,29.72,31.96,MEDIUM,High pending-work ratio,Pending work ratio is 46.3%,False
+Smt Raksha Nikhil Khadse,RAVER,65.78,6.451612903225806,6.451612903225806,3218000,15,35.94,25.88,31.92,MEDIUM,Low utilization,No single parameter shows an extremely high anomaly signal,False
+Dileshwar Kamait,SUPAUL,48.37,16.0,0.0,1296300,21,27.81,37.96,31.87,MEDIUM,Low utilization,Utilization is 48.4%,False
+DHARMENDRA YADAV,AZAMGARH,73.77,35.294117647058826,0.0,6035400,20,40.59,18.76,31.86,MEDIUM,High average project cost,"Average project cost is ₹6,035,400",False
+Thiru Dayanidhi Maran,CHENNAI CENTRAL,52.14,28.30188679245283,5.660377358490567,1238600,21,38.25,22.24,31.85,MEDIUM,Low utilization,Utilization is 52.1%,False
+SUKHJINDER SINGH RANDHAWA,GURDASPUR,92.88,14.705882352941178,11.76470588235294,3775300,53,39.8,19.8,31.8,MEDIUM,High cancellation ratio,Cancellation ratio is 11.8%,False
+ADHIKARI SOUMENDU,KANTHI,58.15,10.0,5.0,1279400,102,37.83,22.75,31.8,MEDIUM,Low utilization,Utilization is 58.1%,False
+Shri Abhishek Banerjee,DIAMOND HARBOUR,90.02,26.08695652173913,8.695652173913043,5268900,45,44.41,12.74,31.74,MEDIUM,High average project cost,"Average project cost is ₹5,268,900",False
+CHINTAMANI MAHARAJ,SARGUJA(ST),82.47,29.411764705882355,11.76470588235294,3147200,62,48.62,6.31,31.7,MEDIUM,High cancellation ratio,Cancellation ratio is 11.8%,False
+DURAI VAIKO,TIRUCHIRAPPALLI,50.09,30.303030303030305,3.0303030303030303,2147800,76,47.26,8.32,31.68,MEDIUM,Low utilization,Utilization is 50.1%,False
+SURESH KUMAR SHETKAR,ZAHIRABAD,93.41,38.0,8.0,2677500,87,46.12,9.89,31.63,MEDIUM,High pending-work ratio,No single parameter shows an extremely high anomaly signal,False
+Shrirang Appa Barne,MAVAL,77.79,36.0,0.0,4033000,121,48.16,6.3,31.42,MEDIUM,High average delay,Average delay is 121 days,False
+RAJPALSINH MAHENDRASINH JADAV,PANCHMAHAL,93.23,12.06896551724138,3.4482758620689653,2355400,152,35.04,25.77,31.33,MEDIUM,High average delay,Average delay is 152 days,False
+C R Patil,NAVSARI,86.98,31.91489361702128,4.25531914893617,2828700,145,47.59,6.94,31.33,MEDIUM,High average delay,Average delay is 145 days,False
+Shankar Lalwani,INDORE,76.97,27.11864406779661,1.694915254237288,1763900,161,40.07,18.15,31.3,MEDIUM,High average delay,Average delay is 161 days,False
+Nitin Jairam Gadkari,NAGPUR,48.22,9.433962264150944,0.0,1496700,62,31.07,31.59,31.28,MEDIUM,Low utilization,Utilization is 48.2%,False
+Shri Tapir Gao,ARUNACHAL EAST,63.83,29.268292682926827,9.75609756097561,2066600,80,50.75,1.94,31.23,MEDIUM,High cancellation ratio,Cancellation ratio is 9.8%,False
+DHARMENDRA PRADHAN,SAMBALPUR,61.05,38.0,8.0,1794200,29,45.79,9.35,31.21,MEDIUM,Low utilization,No single parameter shows an extremely high anomaly signal,False
+Rajiv Pratap Rudy,SARAN,62.74,25.0,6.25,2760200,98,51.84,0.27,31.21,MEDIUM,Low utilization,No single parameter shows an extremely high anomaly signal,False
+AMRARAM,SIKAR,95.02,24.13793103448276,6.896551724137931,4782600,75,42.33,14.38,31.15,MEDIUM,High average project cost,"Average project cost is ₹4,782,600",False
+K E PRAKASH,ERODE,87.17,42.0,8.0,2429600,73,47.15,7.16,31.15,MEDIUM,High pending-work ratio,Pending work ratio is 42.0%,False
+BRIJMOHAN AGRAWAL,RAIPUR,53.99,28.57142857142857,5.714285714285714,2314600,39,46.6,7.87,31.11,MEDIUM,Low utilization,Utilization is 54.0%,False
+Giriraj Singh,BEGUSARAI,70.43,21.428571428571427,1.7857142857142856,1550300,157,39.28,18.84,31.1,MEDIUM,High average delay,Average delay is 157 days,False
+Khagen Murmu,MALDAHA UTTAR,53.19,9.090909090909092,5.454545454545454,1258200,25,31.19,30.94,31.09,MEDIUM,Low utilization,Utilization is 53.2%,False
+SAMBIT PATRA,PURI,48.08,28.205128205128204,0.0,1717600,43,37.04,21.74,30.92,MEDIUM,Low utilization,Utilization is 48.1%,False
+DAROGA PRASAD SAROJ,LALGANJ (SC),69.8,42.85714285714285,7.142857142857142,1530300,46,43.53,11.62,30.77,MEDIUM,High pending-work ratio,Pending work ratio is 42.9%,False
+SATPAL BRAHAMCHARI,SONEPAT,66.68,8.695652173913043,8.695652173913043,1950500,99,41.95,13.98,30.76,MEDIUM,High cancellation ratio,No single parameter shows an extremely high anomaly signal,False
+PRIYANKA SATISH JARKIHOLI,CHIKKODI,76.22,22.727272727272727,9.090909090909092,2148300,117,47.02,6.16,30.68,MEDIUM,High cancellation ratio,No single parameter shows an extremely high anomaly signal,False
+Smt Satabdi Roy (Banerjee),BIRBHUM,56.48,18.0,2.0,1576900,121,40.66,15.68,30.67,MEDIUM,Low utilization,Utilization is 56.5%; Average delay is 121 days,False
+Putta Mahesh Kumar,ELURU,94.76,15.909090909090908,9.090909090909092,3140200,79,38.82,18.39,30.65,MEDIUM,High cancellation ratio,No single parameter shows an extremely high anomaly signal,False
+BHARTI PARDHI,BALAGHAT,49.73,8.333333333333332,0.0,1430200,42,27.61,35.21,30.65,MEDIUM,Low utilization,Utilization is 49.7%,False
+Kishan Reddy Gangapuram,SECUNDERABAD,94.14,22.033898305084744,5.084745762711865,2014700,143,36.95,21.18,30.64,MEDIUM,High average delay,Average delay is 143 days,False
+Ashok Kumar Rawat,MISRIKH(SC),87.44,14.285714285714285,4.761904761904762,6100600,14,33.44,26.31,30.59,MEDIUM,High average project cost,"Average project cost is ₹6,100,600",False
+Lavu Sri Krishna Devarayalu,NARASARAOPET,66.67,35.294117647058826,7.84313725490196,2229800,52,48.09,4.18,30.53,MEDIUM,High cancellation ratio,No single parameter shows an extremely high anomaly signal,False
+RAKIBUL HUSSAIN,DHUBRI,72.56,44.11764705882353,5.88235294117647,2650400,43,47.98,4.26,30.49,MEDIUM,High pending-work ratio,Pending work ratio is 44.1%,False
+CHHOTELAL,ROBERTSGANJ(SC),59.74,34.88372093023256,4.651162790697675,1988300,1,37.94,19.25,30.46,MEDIUM,Low utilization,Utilization is 59.7%,False
+RAHUL SINGH LODHI,DAMOH,54.95,20.0,5.0,1350500,78,40.37,15.6,30.46,MEDIUM,Low utilization,Utilization is 55.0%,False
+V S Matheswaran,NAMAKKAL,66.93,10.0,1.6666666666666667,1591300,147,35.66,22.44,30.37,MEDIUM,High average delay,Average delay is 147 days,False
+P C Mohan,BANGALORE CENTRAL,59.59,33.33333333333333,6.25,1890100,90,49.52,1.64,30.37,MEDIUM,Low utilization,Utilization is 59.6%,False
+NABA CHARAN MAJHI,MAYURBHANJ (ST),92.73,20.0,6.666666666666667,4064500,10,32.7,26.75,30.32,MEDIUM,High average project cost,No single parameter shows an extremely high anomaly signal,False
+Krishan Pal Gurjar,FARIDABAD,64.1,11.864406779661016,6.779661016949152,1409100,6,28.58,32.81,30.27,MEDIUM,Low utilization,No single parameter shows an extremely high anomaly signal,False
+Khalilur Rahaman,JANGIPUR,84.52,50.0,0.0,2309000,17,33.25,25.64,30.21,MEDIUM,High pending-work ratio,Pending work ratio is 50.0%,False
+Shri Arun Kumar Sagar,SHAHJAHANPUR(SC),69.4,41.07142857142857,0.0,1647500,119,42.15,12.16,30.15,MEDIUM,High pending-work ratio,Pending work ratio is 41.1%,False
+Kalyan Banerjee,SREERAMPUR,73.7,3.7037037037037033,0.0,3716400,31,25.85,36.0,29.91,LOW,High average project cost,No single parameter shows an extremely high anomaly signal,False
+Manoj Tiwari,NORTH EAST DELHI,86.26,7.317073170731707,7.317073170731707,4113100,77,39.72,15.18,29.9,LOW,High average project cost,No single parameter shows an extremely high anomaly signal,False
+Shri vijayakumar Vasanth,KANNIYAKUMARI,57.04,32.608695652173914,4.3478260869565215,1996300,93,48.36,2.01,29.82,LOW,Low utilization,Utilization is 57.0%,False
+DR DHARAMVIRA GANDHI,PATIALA,68.97,25.0,0.0,5216000,28,38.0,17.46,29.78,LOW,High average project cost,"Average project cost is ₹5,216,000",False
+ARUNA. D. K,MAHABUBNAGAR,68.52,17.543859649122805,0.0,1546900,141,35.06,21.81,29.76,LOW,High average delay,Average delay is 141 days,False
+SANJNA JATAV,BHARATPUR(SC),62.73,38.095238095238095,2.380952380952381,2171900,99,48.58,1.3,29.67,LOW,Low utilization,No single parameter shows an extremely high anomaly signal,False
+Omprakash Bhupalsinh Alias Pawan Rajenimbalkar,OSMANABAD,54.66,37.03703703703704,3.7037037037037033,1783100,76,46.84,3.79,29.62,LOW,Low utilization,Utilization is 54.7%,False
+Thirumaa Valavan Thol,CHIDAMBARAM(SC),79.56,51.66666666666667,0.0,1788600,24,32.1,25.57,29.49,LOW,High pending-work ratio,Pending work ratio is 51.7%,False
+Smt Sangeeta Kumari Singh Deo,BOLANGIR,50.54,26.31578947368421,2.631578947368421,1801000,32,38.0,16.4,29.36,LOW,Low utilization,Utilization is 50.5%,False
+Ganesh Singh,SATNA,74.42,36.206896551724135,0.0,1720700,134,40.13,13.2,29.36,LOW,High average delay,Average delay is 134 days,False
+VIVEK THAKUR,NAWADA,63.95,44.0,4.0,1854300,78,47.81,1.58,29.32,LOW,High pending-work ratio,Pending work ratio is 44.0%,False
+SK NURUL ISLAM,BASIRHAT,76.29,25.0,2.7777777777777777,1009600,86,30.33,27.57,29.23,LOW,High average delay,No single parameter shows an extremely high anomaly signal,False
+Ram Shiromani,SHRAWASTI,61.36,22.5,5.0,2140400,2,34.32,21.28,29.1,LOW,Low utilization,No single parameter shows an extremely high anomaly signal,False
+Mahesh Sharma,GAUTAM BUDDHA NAGAR,68.65,46.66666666666666,0.0,1575300,34,34.49,21.0,29.09,LOW,High pending-work ratio,Pending work ratio is 46.7%,False
+NARESH CHANDRA UTTAM PATEL,FATEHPUR,87.57,6.0,8.0,2193800,95,34.15,21.32,29.02,LOW,High cancellation ratio,No single parameter shows an extremely high anomaly signal,False
+ANAND KUMAR,BAHRAICH(SC),85.33,13.043478260869565,0.0,5226400,97,36.64,17.56,29.01,LOW,High average project cost,"Average project cost is ₹5,226,400",False
+GENIBEN NAGAJI THAKOR,BANASKANTHA,53.69,21.875,0.0,2038200,6,30.2,27.11,28.96,LOW,Low utilization,Utilization is 53.7%,False
+AKHILESH YADAV,KANNAUJ,84.49,40.42553191489361,6.382978723404255,2282800,77,45.44,4.18,28.94,LOW,High pending-work ratio,No single parameter shows an extremely high anomaly signal,False
+ABHAY KUMAR SINHA,AURANGABAD_BR,57.25,31.91489361702128,6.382978723404255,1594900,46,43.01,7.65,28.87,LOW,Low utilization,Utilization is 57.2%,False
+Shri Satish Kumar Gautam,ALIGARH,58.91,20.0,5.0,1285600,68,36.89,16.64,28.79,LOW,Low utilization,Utilization is 58.9%,False
+DEVESH CHANDRA THAKUR,SITAMARHI,87.16,36.17021276595745,6.382978723404255,3037000,84,46.95,1.36,28.71,LOW,High pending-work ratio,No single parameter shows an extremely high anomaly signal,False
+Kamlesh Paswan,BANSGAON(SC),68.75,15.151515151515152,9.090909090909092,2601100,37,41.1,10.13,28.71,LOW,High cancellation ratio,No single parameter shows an extremely high anomaly signal,False
+D Ravikumar,VILUPPURAM(SC),81.24,35.714285714285715,0.0,5110700,58,41.64,9.12,28.63,LOW,High average project cost,"Average project cost is ₹5,110,700",False
+Janardan Mishra,REWA,73.27,37.142857142857146,5.714285714285714,2956000,28,44.19,5.0,28.51,LOW,High pending-work ratio,No single parameter shows an extremely high anomaly signal,False
+Shri LS Tejasvi Surya,BANGALORE SOUTH,63.4,4.545454545454546,2.272727272727273,2115700,11,23.9,35.39,28.5,LOW,Low utilization,No single parameter shows an extremely high anomaly signal,False
+RAMESH AWASTHI,KANPUR,56.66,20.588235294117645,2.941176470588235,2248000,82,43.0,6.74,28.5,LOW,Low utilization,Utilization is 56.7%,False
+Devendra Alias Bhole Singh,AKBARPUR,83.65,14.285714285714285,6.122448979591836,2422600,121,41.18,9.44,28.48,LOW,High average delay,Average delay is 121 days,False
+PRAVEEN PATEL,PHULPUR,84.77,35.08771929824561,3.508771929824561,1928200,124,41.29,9.14,28.43,LOW,High average delay,Average delay is 124 days,False
+R.K. CHAUDHARY,MOHANLALGANJ(SC),56.15,35.0,2.5,1782700,9,35.68,17.51,28.41,LOW,Low utilization,Utilization is 56.1%,False
+GAIKWAD VARSHA EKNATH,MUMBAI NORTH-CENTRAL,95.83,27.500000000000004,0.0,3005200,94,31.89,22.1,27.97,LOW,High average delay,No single parameter shows an extremely high anomaly signal,False
+Vishnu Dutt Sharma,KHAJURAHO,65.16,5.357142857142857,1.7857142857142856,1477700,79,27.04,29.07,27.85,LOW,Low utilization,No single parameter shows an extremely high anomaly signal,False
+ANIL BALUNI,GARHWAL,87.46,41.66666666666667,0.0,3475000,66,38.9,11.26,27.84,LOW,High pending-work ratio,Pending work ratio is 41.7%,False
+Rajnath Singh,LUCKNOW,67.33,12.5,8.333333333333332,2165500,14,34.26,18.19,27.83,LOW,High cancellation ratio,No single parameter shows an extremely high anomaly signal,False
+CHANDAN CHAUHAN,BIJNOR,67.89,30.0,7.5,2047700,78,46.03,0.27,27.73,LOW,High cancellation ratio,No single parameter shows an extremely high anomaly signal,False
+RAMASHANKAR RAJBHAR,SALEMPUR,79.32,45.614035087719294,3.508771929824561,2165400,17,36.42,14.54,27.67,LOW,High pending-work ratio,Pending work ratio is 45.6%,False
+MANI. A.,DHARAMAPURI,68.55,15.217391304347828,8.695652173913043,2032600,58,39.26,10.2,27.64,LOW,High cancellation ratio,No single parameter shows an extremely high anomaly signal,False
+GOPINATH K,KRISHNAGIRI,64.42,37.83783783783784,5.405405405405405,2128800,34,43.86,3.13,27.57,LOW,High pending-work ratio,No single parameter shows an extremely high anomaly signal,False
+ANDREW J. SYNGKON,SHILLONG,78.84,31.57894736842105,0.0,4000100,99,43.01,4.25,27.51,LOW,High average project cost,No single parameter shows an extremely high anomaly signal,False
+Krishna Prasad Tenneti,BAPATLA,86.36,41.81818181818181,3.636363636363636,2238900,89,42.28,5.2,27.45,LOW,High pending-work ratio,Pending work ratio is 41.8%,False
+RAJ KUMAR ROAT,BANSWARA(ST),91.53,32.0,4.0,4457200,24,35.96,14.5,27.38,LOW,High average project cost,"Average project cost is ₹4,457,200",False
+Kani K Navas,RAMANATHAPURAM,85.12,12.903225806451612,3.225806451612903,3931300,101,38.51,10.32,27.23,LOW,High average project cost,No single parameter shows an extremely high anomaly signal,False
+KUNDURU RAGHUVEER,NALGONDA,95.09,33.33333333333333,1.96078431372549,2895300,81,35.26,14.88,27.11,LOW,High pending-work ratio,No single parameter shows an extremely high anomaly signal,False
+SARABJEET SINGH KHALSA,FARIDKOT(SC),93.99,16.666666666666664,4.166666666666666,2697400,102,34.23,16.25,27.04,LOW,High average delay,No single parameter shows an extremely high anomaly signal,False
+Bharatsinhji Shankarji Dabhi,PATAN,86.78,25.0,5.555555555555555,3529400,93,43.77,1.85,27.0,LOW,High average project cost,No single parameter shows an extremely high anomaly signal,False
+RAMASAHAYAM RAGHURAM REDDY,KHAMMAM,78.31,34.78260869565217,2.1739130434782608,2095800,121,42.04,4.27,26.93,LOW,High average delay,Average delay is 121 days,False
+Pradan Baruah,LAKHIMPUR,72.72,7.894736842105263,5.263157894736842,2497700,94,38.12,10.11,26.92,LOW,High average delay,No single parameter shows an extremely high anomaly signal,False
+D M Kathir Anand,VELLORE,87.26,24.52830188679245,7.547169811320755,2442900,100,42.89,2.92,26.9,LOW,High cancellation ratio,No single parameter shows an extremely high anomaly signal,False
+Gumma Thanuja Rani,ARAKU(ST),74.82,32.35294117647059,5.88235294117647,3002600,25,41.6,4.75,26.86,LOW,High average project cost,No single parameter shows an extremely high anomaly signal,False
+Shri Narendra Modi,VARANASI,68.84,14.634146341463412,0.0,2261800,118,36.34,12.17,26.67,LOW,High average delay,No single parameter shows an extremely high anomaly signal,False
+KANWAR SINGH TANWAR,AMROHA,89.82,34.14634146341464,0.0,3173200,97,37.78,10.0,26.67,LOW,High average delay,No single parameter shows an extremely high anomaly signal,False
+SHER SINGH GHUBAYA,FIROZPUR,58.9,36.58536585365854,2.4390243902439024,1743100,35,38.29,8.97,26.56,LOW,Low utilization,Utilization is 58.9%,False
+RANJIT DUTTA,Sonitpur,54.58,17.94871794871795,0.0,2002500,32,31.23,19.17,26.41,LOW,Low utilization,Utilization is 54.6%,False
+DR BYREDDY SHABARI,NANDYAL,77.96,17.391304347826086,8.695652173913043,2261900,74,40.22,5.68,26.4,LOW,High cancellation ratio,No single parameter shows an extremely high anomaly signal,False
+RICHARD VANLALHMANGAIHA,MIZORAM (ST),69.8,39.53488372093023,2.3255813953488373,2288400,74,43.29,1.06,26.4,LOW,High pending-work ratio,No single parameter shows an extremely high anomaly signal,False
+Midhun Reddy,RAJAMPET,78.24,19.29824561403509,5.263157894736842,2189200,114,40.86,4.66,26.38,LOW,High average delay,No single parameter shows an extremely high anomaly signal,False
+Parvatagouda Chandanagouda Gaddigoudar,BAGALKOT,87.33,19.35483870967742,0.0,4605700,12,26.8,25.66,26.34,LOW,High average project cost,"Average project cost is ₹4,605,700",False
+Pralhad Venkatesh Joshi,DHARWAD,69.63,37.83783783783784,2.702702702702702,2427300,13,37.06,10.02,26.24,LOW,High pending-work ratio,No single parameter shows an extremely high anomaly signal,False
+DARSHAN SINGH CHOUDHARY,HOSHANGABAD,58.27,32.0,0.0,1510200,29,31.47,18.35,26.22,LOW,Low utilization,Utilization is 58.3%,False
+SUNIL BOSE,CHAMARAJANAGAR(SC),62.58,18.421052631578945,5.263157894736842,2270600,56,40.72,4.24,26.13,LOW,Low utilization,No single parameter shows an extremely high anomaly signal,False
+VIJAYLAKSHMI DEVI,SIWAN,74.13,38.095238095238095,2.380952380952381,2564600,75,42.85,0.88,26.06,LOW,High pending-work ratio,No single parameter shows an extremely high anomaly signal,False
+DR. PRABHA MALLIKARJUN,DAVANAGERE,88.87,5.0,2.5,3114600,51,25.02,27.25,25.91,LOW,High average project cost,No single parameter shows an extremely high anomaly signal,False
+DHANORKAR PRATIBHA SURESH ALIAS BALUBHAU,CHANDRAPUR,71.62,28.57142857142857,5.714285714285714,2777800,36,41.49,2.41,25.86,LOW,High cancellation ratio,No single parameter shows an extremely high anomaly signal,False
+Rodmal Nagar,RAJGARH,66.51,20.0,2.857142857142857,2764000,54,38.6,6.34,25.7,LOW,Low utilization,No single parameter shows an extremely high anomaly signal,False
+Virendra Kumar,TIKAMGARH(SC),55.61,25.0,0.0,1705500,17,29.19,20.23,25.61,LOW,Low utilization,Utilization is 55.6%,False
+RACHNA BANERJEE,HOOGHLY,92.75,6.382978723404255,4.25531914893617,2772000,38,23.64,28.42,25.55,LOW,High average project cost,No single parameter shows an extremely high anomaly signal,False
+GM Harish Balayogi,AMALAPURAM(SC),70.18,42.22222222222222,0.0,1896800,24,32.57,14.24,25.24,LOW,High pending-work ratio,Pending work ratio is 42.2%,False
+SAGAR ESHWAR KHANDRE,BIDAR,90.73,34.285714285714285,0.0,3433500,73,34.93,10.35,25.1,LOW,High average project cost,No single parameter shows an extremely high anomaly signal,False
+JITAN RAM MANJHI,GAYA (SC),64.31,27.659574468085108,4.25531914893617,1766100,85,41.38,0.63,25.08,LOW,Low utilization,No single parameter shows an extremely high anomaly signal,False
+Sanjay Seth,RANCHI,88.67,35.8974358974359,2.564102564102564,2889000,34,34.34,11.18,25.08,LOW,High pending-work ratio,No single parameter shows an extremely high anomaly signal,False
+Kalaben Mohanbhai Delkar,DADRA & NAGAR HAVELI (ST),92.12,37.93103448275862,0.0,1927600,77,29.3,18.71,25.06,LOW,High pending-work ratio,No single parameter shows an extremely high anomaly signal,False
+HARISH CHANDRA MEENA,TONK-SAWAI MADHOPUR,75.06,37.735849056603776,1.8867924528301887,1968600,95,39.78,2.95,25.05,LOW,High pending-work ratio,No single parameter shows an extremely high anomaly signal,False
+Prasun Banerjee,HOWRAH,64.7,27.500000000000004,5.0,2198500,36,39.49,3.39,25.05,LOW,Low utilization,No single parameter shows an extremely high anomaly signal,False
+Shripad Yesso Naik,NORTH GOA,70.39,42.10526315789473,0.0,1799100,24,31.84,14.42,24.87,LOW,High pending-work ratio,Pending work ratio is 42.1%,False
+Arvind Ganpat Sawant,MUMBAI SOUTH,79.29,5.769230769230769,3.8461538461538463,1950100,85,27.7,20.54,24.84,LOW,High average delay,No single parameter shows an extremely high anomaly signal,False
+MUKESHKUMAR CHANDRAKAANT DALAL,SURAT,81.0,10.0,3.333333333333333,3626000,24,28.81,18.55,24.71,LOW,High average project cost,No single parameter shows an extremely high anomaly signal,False
+CAPTAIN BRIJESH CHOWTA,DAKSHINA KANNADA,95.51,21.568627450980397,1.96078431372549,2373600,79,27.68,20.15,24.67,LOW,High average delay,No single parameter shows an extremely high anomaly signal,False
+Nityanand Rai,UJJARPUR,94.41,7.4074074074074066,0.0,2282700,60,17.37,34.89,24.38,LOW,High average project cost,No single parameter shows an extremely high anomaly signal,False
+Ajay Tamta,ALMORA(SC),87.8,6.521739130434782,4.3478260869565215,2549800,70,28.11,18.65,24.33,LOW,High average project cost,No single parameter shows an extremely high anomaly signal,False
+SACHITHANANTHAM R,DINDIGUL,68.92,31.03448275862069,5.172413793103448,1562400,27,33.53,10.49,24.31,LOW,Low utilization,No single parameter shows an extremely high anomaly signal,False
+Dr Chandra Sekhar Pemmasani,GUNTUR,90.4,16.071428571428573,0.0,2208800,0,14.67,38.76,24.31,LOW,High average project cost,No single parameter shows an extremely high anomaly signal,False
+RAJEEV RAI,GHOSI,85.83,16.666666666666664,6.25,2389800,85,36.97,5.03,24.19,LOW,High cancellation ratio,No single parameter shows an extremely high anomaly signal,False
+JAGADISH CHANDRA BARMA BASUNIA,COOCHBEHAR(SC),64.97,15.09433962264151,3.7735849056603774,2015700,83,37.33,4.35,24.14,LOW,Low utilization,No single parameter shows an extremely high anomaly signal,False
+Devusinh Jesingbhai Chauhan,KHEDA,64.65,25.58139534883721,4.651162790697675,1974700,67,39.69,0.69,24.09,LOW,Low utilization,No single parameter shows an extremely high anomaly signal,False
+S SUPONGMEREN JAMIR,NAGALAND,77.52,8.108108108108109,2.702702702702702,2672100,11,23.68,24.65,24.07,LOW,High average project cost,No single parameter shows an extremely high anomaly signal,False
+Asaduddin Owaisi,HYDERABAD,63.02,26.82926829268293,2.4390243902439024,2138700,51,37.44,3.85,24.0,LOW,Low utilization,No single parameter shows an extremely high anomaly signal,False
+Annpurna Devi,KODARMA,70.54,33.33333333333333,2.564102564102564,2528800,23,36.32,5.5,23.99,LOW,High pending-work ratio,No single parameter shows an extremely high anomaly signal,False
+IQRA CHOUDHARY,KAIRANA,92.27,16.666666666666664,0.0,3708600,17,22.24,26.53,23.96,LOW,High average project cost,No single parameter shows an extremely high anomaly signal,False
+HARIBHAI PATEL,MAHESANA,89.17,9.803921568627452,7.84313725490196,2135600,42,27.63,18.34,23.91,LOW,High cancellation ratio,No single parameter shows an extremely high anomaly signal,False
+Shri Jugal Kishore Sharma,JAMMU,86.57,32.608695652173914,4.3478260869565215,2728500,38,35.79,6.08,23.91,LOW,High pending-work ratio,No single parameter shows an extremely high anomaly signal,False
+KRITI DEVI DEBBARMAN,TRIPURA EAST(ST),69.57,34.88372093023256,0.0,2260700,12,30.9,13.33,23.87,LOW,High pending-work ratio,No single parameter shows an extremely high anomaly signal,False
+PARSHOTTAMBHAI RUPALA,RAJKOT,89.23,10.638297872340424,6.382978723404255,2341100,34,27.19,18.8,23.83,LOW,High cancellation ratio,No single parameter shows an extremely high anomaly signal,False
+GOVIND MAKTHAPPA KARJOL,CHITRADURGA(SC),65.27,20.0,2.5,2163500,77,37.61,3.07,23.79,LOW,Low utilization,No single parameter shows an extremely high anomaly signal,False
+SANJAY DINA PATIL,MUMBAI NORTH EAST,78.06,26.666666666666668,0.0,3738500,51,34.87,7.04,23.74,LOW,High average project cost,No single parameter shows an extremely high anomaly signal,False
+Manickam Tagore B,VIRUDHUNAGAR,71.63,7.894736842105263,2.631578947368421,2568900,37,28.31,16.59,23.62,LOW,Low utilization,No single parameter shows an extremely high anomaly signal,False
+Jagdambika Pal,DOMARIYAGANJ,73.96,19.148936170212767,2.127659574468085,2295800,99,36.84,3.56,23.53,LOW,High average delay,No single parameter shows an extremely high anomaly signal,False
+DR RANI SRI KUMAR,TENKASI(SC),74.87,26.82926829268293,2.4390243902439024,2774700,75,38.86,0.0,23.32,LOW,High average project cost,No single parameter shows an extremely high anomaly signal,False
+Ajay Kumar Mandal,BHAGALPUR,85.67,25.0,6.666666666666667,1942700,56,33.27,8.37,23.31,LOW,High cancellation ratio,No single parameter shows an extremely high anomaly signal,False
+Smt Anupriya Patel,MIRZAPUR,91.34,21.153846153846157,5.769230769230769,2326300,47,30.68,12.13,23.26,LOW,High cancellation ratio,No single parameter shows an extremely high anomaly signal,False
+ARUN BHARTI,JAMUI(SC),82.12,8.620689655172415,3.4482758620689653,2275400,86,30.4,12.08,23.07,LOW,High average delay,No single parameter shows an extremely high anomaly signal,False
+NAVEEN JINDAL,KURUKSHETRA,72.28,11.363636363636363,4.545454545454546,2353500,23,28.99,13.59,22.83,LOW,Low utilization,No single parameter shows an extremely high anomaly signal,False
+Shri Hibi Eden,ERNAKULAM,69.54,11.666666666666666,3.333333333333333,1795300,64,29.06,12.77,22.54,LOW,Low utilization,No single parameter shows an extremely high anomaly signal,False
+Smt Supriya Sadanand Sule,BARAMATI,85.44,36.206896551724135,0.0,1974100,32,26.4,16.65,22.5,LOW,High pending-work ratio,No single parameter shows an extremely high anomaly signal,False
+DR. SHARMILA SARKAR,BARDHAMAN PURBA(SC),76.13,30.76923076923077,0.0,2433400,15,28.27,13.05,22.18,LOW,High pending-work ratio,No single parameter shows an extremely high anomaly signal,False
+Smt Sajda Ahmed,ULUBERIA,73.16,17.857142857142858,0.0,1830100,79,28.09,13.02,22.06,LOW,High average delay,No single parameter shows an extremely high anomaly signal,False
+Ramvir Singh Bidhuri,SOUTH DELHI,92.77,9.523809523809524,2.380952380952381,2766700,23,20.0,24.94,21.98,LOW,High average project cost,No single parameter shows an extremely high anomaly signal,False
+MANOJ KUMAR,SASARAM(SC),93.31,25.925925925925924,3.7037037037037033,2188700,53,27.96,12.82,21.9,LOW,High pending-work ratio,No single parameter shows an extremely high anomaly signal,False
+Smt Poonamben Hematbhai Maadam,JAMNAGAR,70.21,16.666666666666664,1.6666666666666667,1504200,66,26.71,14.23,21.72,LOW,Low utilization,No single parameter shows an extremely high anomaly signal,False
+Yogendra Chandoliya,NORTH WEST DELHI(SC),65.91,26.923076923076923,0.0,1788400,28,27.76,12.03,21.47,LOW,Low utilization,No single parameter shows an extremely high anomaly signal,False
+RAJABHAU,NASHIK,76.93,26.923076923076923,0.0,2245000,11,24.63,16.58,21.41,LOW,High pending-work ratio,No single parameter shows an extremely high anomaly signal,False
+Bhupathiraju Srinivasa varma,NARASAPURAM,83.26,21.052631578947366,3.508771929824561,2078700,50,28.73,8.69,20.71,LOW,High cancellation ratio,No single parameter shows an extremely high anomaly signal,False
+KAMAKHYA PRASAD TASA,Kaziranga,82.92,29.82456140350877,1.7543859649122806,1755300,49,26.82,10.48,20.28,LOW,High pending-work ratio,No single parameter shows an extremely high anomaly signal,False

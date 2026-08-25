@@ -1,0 +1,16 @@
+{
+  "name": "satarkai",
+  "version": "1.0.0",
+  "description": "An AI-driven **Governance Decision-Support and Risk-Prioritization System** designed for analyzing the **Members of Parliament Local Area Development Scheme (MPLADS)** data across 544 parliamentary constituencies.",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  }
+}
