@@ -118,7 +118,7 @@ def test_phase3_project_analysis_modules():
     TEST 3: Project CSV verifying cost outliers, tender splitting, semantic duplicates,
     and contractor concentration risk.
     """
-        csv_content = (
+    csv_content = (
         "Work_Code,Project_Title,Category,Sanctioned_Amount,District,Contractor,Sanction_Date\n"
         "PRJ-001,Construction of Concrete CC Road in Ward 4,Roads,980000,Yavatmal,SK Infra,2024-01-10\n"
         "PRJ-002,Construction of Concrete CC Road in Ward 4 Phase 2,Roads,990000,Yavatmal,SK Infra,2024-01-18\n"
@@ -126,6 +126,7 @@ def test_phase3_project_analysis_modules():
         "PRJ-004,Mega Community Facility Centre,Community Assets,8500000,Yavatmal,Bharat Con,2024-02-01\n"
         "PRJ-005,Small Borewell Drinking Water,Water,150000,Yavatmal,Local Agency,2024-02-05\n"
     )
+
     files = {"file": ("projects_test.csv", io.BytesIO(csv_content.encode("utf-8")), "text/csv")}
     up_res = client.post("/api/upload", files=files)
     assert up_res.status_code == 200
